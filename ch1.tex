@@ -1,0 +1,188 @@
+\chapter{Introduction}
+
+\section{Motivation}
+Clinicians are often faced with situations in which they must make
+decisions with little guidance from medical science.  This situation
+has been referred to as the \emph{inferential gap}
+\cite{InferentialGap}, and it may arise in many ways.  For instance,
+clinicians may be unaware of existing guidelines - it has been
+estimated that it takes 17 years on average for findings in clinical
+studies to make their way into widespread use \cite{Balas2000}.  It
+may also be that the relevant information simply does not exist.
+
+Information from randomized controlled trials (RCTs) is the
+gold-standard of evidence of safety and efficacy because, when well
+designed and executed, RCTs can control for unobserved confounding
+factors.  However, even when those conditions are met, the findings of
+RCTs are often difficult to generalize to the sorts of patients seen
+in every day practice.  This is primarily due to the sparsity of RCTs
+- it is extremely expensive and time consuming to run a randomized
+controlled trial.  Driven in part by their expense, RCTs
+frequently have strict exclusion criteria that eliminate patients from
+study due to age, serious disabilities, co-morbidities, pregnancies
+and poly-pharmacy.
+
+Unfortunately, such patients are precisely those that are increasingly
+common in actual clinical practice, and account for much of Medicare
+and Medicaid expenses.  The end result of this narrow evidence base is
+that a shockingly small fraction of clinical decisions are made on the
+basis of good evidence that their benefit outweighs their harms.  It
+has been estimated that only 11\% of 3,000 comomon clinical
+interventions meet this standard in at least the studied population
+\cite{BMJClinicalEvidence}.  A review of clinical guidelines issued by
+the American College of Cardiology and American Heart Association
+similarly found that only 11\% of recommendations in the guidelines
+were well supported by strong evidence \cite{Tricoci2009}.  These
+estimates of course ignore the issue of whether those recommendations
+generalize to other populations.  
+
+Narrowing the inferential gap by broadening the evidence base is one
+of the primary goals of the Learning Healthcare System (LHS), defined
+in a 2007 Institute of Medicine report \cite{IOM2007LHC,Etheredge2014}
+as follows (emphasis added):
+
+\begin{quote}
+A learning healthcare system is [one that] is designed to generate and
+apply the best evidence for the collaborative healthcare choicees of
+each patient and provider; to \emph{drive the process of discovery as a
+natural outgrowth of patient care}; and to ensure innovation, quality,
+safety, and value in healthcare
+\end{quote}
+
+\noindent A cornerstone of the LHS as envisioned by the IOM is the
+widespread adoption and interoperability of Electronic Health Record
+(EHR) systems \cite{IOMClinicalData}.  The reason for this is simple:
+EHRs generate and capture data from routine clinical care rather than
+focussing on narrow populations and disorders, as is the case in most
+clinical trials.  Thus, widespread use of EHRs has the potential to
+provide a more comprehensive picture of the diagnosis, treatment, and
+outcomes of the entire population, and to do so in a timely manner,
+than other data sources such as administrative (e.g., insurance
+claims) data.  The discovery of knowledge derived from this such data
+sources has been called \emph{Practice Based Medicine} and it turns
+the paradigm of Evidence Based Medicine (EBM), in which data is
+generated through a top down process, on its head by embedding the
+first stage of knowledge discovery in routine care
+\cite{Embi2013,Weng2012,Shah2012}.
+
+The Health Information Technology for Economic and Clinical Health
+(HITECH) Act, part of the 2009 American Recovery and Reinvestment
+Act (ARRA), authorized \$20 billion in spending over five years to
+incentivize the adoption and \emph{meaningful use} of EHRs.  It is
+hoped that the increased scope of data generation and capture will be
+transformative for addressing questions of treatment efficacy, safety,
+quality of care, and comparative effectiveness.  Although it remains
+challenging for many health care institutions to meet the criteria
+laid out by the HITECH Act for meaningful use, 59\% of US hospitals
+had at least a basic EHR that implemented 10 basic functions defined
+by the Office of the National Coordinator for Health Information
+Technology \cite{AdlerMillstein2014}, compared with 11\% in 2009.  
+
+However, there are many obstacles on the path from the use of EHRs to
+achieving the ``best care, at lower cost'' that is the aim of the
+IOM's vision.  In this work, we focus on the thorny issue of how
+exactly to take advantage of the data in EHRs, most of which resides
+in the unstructured text of clinical notes (\textbf{best ref?}), to
+generate actionable information that is of use to clinicians and other
+agents of the health care system.  Specifically, we pose several
+questions that are of immediate clinical interest and demonstrate how
+data from EHRs collected during routine care can be used to address
+them.
+
+\section{Outline}
+We present work that demonstrates that it is possible to extract
+actionable information from data in EHRs collected during routine
+patient care.  One set of studies focuses on the free text of clinical
+notes, and use 9 million notes from the Stanford Translational
+Research Itegrated Database Environment (STRIDE) \cite{Lowe2009} as
+their primary data source.  These studies show that it is possible to
+address a variety of questions in the domain of drug safety with
+simple, highly scalable methods.  The key to this scalability is
+performing learning at the level of abstract concepts of interest -
+i.e., drugs and indications, rather than individual notes.  This
+allows use to eschew computationally expensive detailed linguistic
+analysis of the text.  The first study addresses how to use the
+unstructured free text from EHRs to discover off-label drug use.  A
+closely related study turns to how to use free text to discover
+drug-adverse events.  The next set of experiments evaluates the
+trade-off between simple, highly scalable text mining methods and more
+complex methods.  Specifically, for the types of drug safety questions
+we study, is there a benefit to using the more complex systems?
+Finally, we study the use of EHR data from a different setting -
+outpatient wound care centers operated by Healogics Inc - to build
+accurate, well calibrated predictive models of delayed wound healing.
+We also explore the consequences of non-stationarity on these
+models. Below we briefly describe each study and their key findings.
+
+\subsection{Discovery of Off-label Drug Use from Clinical Text}
+Off-label drug use, defined as use of a drug in a manner that deviates
+from its approved use as defined by the drug's FDA label, is
+problematic because such uses have not been evaluated for safety and
+efficacy.  Studies estimate that 21\% of prescriptions are off-label,
+and only 27\% of those have evidence of safety and efficacy.  We took
+a data-mining approach to systematically identify off-label usages
+using free text notes from STRIDE, along with domain knowledge
+extracted from two databases of known usages (Medi-Span and DrugBank).
+We validated 403 putative novel off-label usages across independent
+datasources and prioritized well-supported novel usages for further
+investigation on the basis of drug safety and cost.  This study
+demonstrates the feasibility data mining approaches to using free text
+from EHRs to address a question of significant clinical interest.
+
+\subsection{Discovery of Adverse Drug Events from
+  Clinical Text}
+Adverse drug events (ADEs) are undesired harmful effects resulting
+from use of a medication,and occur in 30\% of hospitalized patients.
+We used a data-mining approach to systematically identify ADEs using
+the free text of STRIDE, along with prior knowledge of drug usages and
+adverse drug events.  Putative ADEs are further filtered for support
+in two independent, complementary data sources.  This method is
+evaluated by assessing support for the predictions in other curated
+data sources, including a manually curated, time indexed reference
+standard of FDA label change events.  We find that 35\% (87 of 240
+high-confidence, well-supported ADEs) are supported by at least one of
+these resources.  This demonstrates the feasibility of systematic
+post-marketing surveillance for ADEs using free text from EHRs.  
+
+\subsection{Functional Evaluation of text-mining tools for clinical
+  data mining tasks}
+The above studies beg the question of whether or not it would be
+advantageous to use a more sophisticated text processing system.  
+The trade-off between the speed and simplicity of dictionary-based
+term recognition and the richer linguistic information provided by
+more advanced Natural Language Processing (NLP) is an area of active
+discussion in clinical informatics.  In this study, we systematically
+evaluate this trade-off using the NCBO Annotator and REVEAL, a
+commercial system based on MedLEE.  We first benchmarked these systems
+on a manually annotated, publically available dataset from the 2008
+i2b2 Obesity Challenge.  We then performed a functional evaluation of
+the systems in three clinical research tasks: phase IV safety
+profiling of a drug, learning adverse drug-drug interactions, and
+learning used-to-treat relationships between drugs and indications.
+We show that there is no significant difference in between the NCBO
+Annnotator and REVEAL with respect to these tasks.  This shows that
+there is a large class of problems of direct clinical relevance which
+are addressable by current, highly scalable text mining methods.
+
+\subsection{Predictive models of delayed wound healing}
+Finally, we explore the use of EHR data for fitting predictive models
+in the context of wound healing in outpatient wound care centers.  The
+outcome of interest in this study is whether or not a given wound will
+take an unusually long time to heal, using information available in
+the EHR during the first week of care.  Our goal in these experiments
+is two-fold.  First, we want to fit accurate, well-calibrated models
+for delayed wound healing.  We find that it is indeed possible to fit
+such models.  Second, we note that the dataset we use in this study
+shows a significant degree of non-stationarity arising from a variety
+of sources.  We believe that this situation is likely to be mirrored
+on many other datasets derived from EHRs during this period of
+remarkable changes in the health care system.  Thus, we also explore
+the impact of non-stationarity on model development and evaluation.
+We simulate varying degrees of non-stationarity by using different
+procedures to split the dataset into training and test sets.  We are
+able to fit accurate, well calibrated models but also find that specific
+conclusions about model selection and generalization error are
+complicated by non-stationarity in the dataset.  
+
+
+

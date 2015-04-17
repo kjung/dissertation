@@ -1,0 +1,3086 @@
+﻿
+@article{,
+  title = {Classification and Regression by randomForest},
+  author = {Andy Liaw and Matthew Wiener},
+  journal = {R News},
+  year = {2002},
+  volume = {2},
+  number = {3},
+  pages = {18-22},
+  url = {http://CRAN.R-project.org/doc/Rnews/},
+}
+
+@article{
+   title = {FDA Adverse Event Reporting System (FAERS): Latest
+   Quarterly Data Files}, 
+   url = {http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm082193.htm}
+
+}
+
+@article{
+   author = {Ahmad, S. R.},
+   title = {Adverse drug event monitoring at the Food and Drug Administration},
+   journal = {J Gen Intern Med},
+   volume = {18},
+   number = {1},
+   pages = {57-60},
+   year = {2003}
+}
+
+
+@article{
+   author = {Anand, I. S. and Doan, A. D. and Ma, K. W. and Toth, J. A. and Geyen, K. J. and Otterness, S. and Chakravarthy, N. and Katra, R. P. and Libbus, I.},
+   title = {Monitoring changes in fluid status with a wireless multisensor monitor: results from the Fluid Removal During Adherent Renal Monitoring (FARM) study},
+   journal = {Congest Heart Fail},
+   volume = {18},
+   number = {1},
+   pages = {32-6},
+   year = {2012}
+}
+
+@article{
+   author = {Andros, G. and Armstrong, D. G. and Attinger, C. E. and Boulton, A. J. and Frykberg, R. G. and Joseph, W. S. and Lavery, L. A. and Morbach, S. and Niezgoda, J. A. and Toursarkissian, B. and Tucson Expert Consensus, Conference},
+   title = {Consensus statement on negative pressure wound therapy (V.A.C. Therapy) for the management of diabetic foot wounds},
+   journal = {Ostomy Wound Manage},
+   volume = {Suppl},
+   pages = {1-32},
+   year = {2006}
+}
+
+@article{
+   author = {Archer, N. and Fevrier-Thomas, U. and Lokker, C. and McKibbon, K. A. and Straus, S. E.},
+   title = {Personal health records: a scoping review},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {4},
+   pages = {515-22},
+   year = {2011}
+}
+
+@article{
+   author = {Aringer, M. and Graninger, W. B. and Steiner, G. and Smolen, J. S.},
+   title = {Safety and efficacy of tumor necrosis factor alpha blockade in systemic lupus erythematosus: an open-label study},
+   journal = {Arthritis Rheum},
+   volume = {50},
+   number = {10},
+   pages = {3161-9},
+   year = {2004}
+}
+
+@article{
+   author = {Armstrong, D. G. and Ayello, E. A. and Capitulo, K. L. and Fowler, E. and Krasner, D. L. and Levine, J. M. and Sibbald, R. G. and Smith, A. P.},
+   title = {New opportunities to improve pressure ulcer prevention and treatment: implications of the CMS inpatient hospital care present on admission indicators/hospital-acquired conditions policy: a consensus paper from the International Expert Wound Care Advisory Panel},
+   journal = {Adv Skin Wound Care},
+   volume = {21},
+   number = {10},
+   pages = {469-78},
+   year = {2008}
+}
+
+@article{
+   author = {Aronson, A. R. and Lang, F. M.},
+   title = {An overview of MetaMap: historical perspective and recent advances},
+   journal = {J Am Med Inform Assoc},
+   volume = {17},
+   number = {3},
+   pages = {229-36},
+   year = {2010}
+}
+
+@article{
+   author = {Augusto, J. C.},
+   title = {Temporal reasoning for decision support in medicine},
+   journal = {Artif Intell Med},
+   volume = {33},
+   number = {1},
+   pages = {1-24},
+   year = {2005}
+}
+
+@article{
+   author = {Avillach, P. and Dufour, J. C. and Diallo, G. and Salvo, F. and Joubert, M. and Thiessard, F. and Mougin, F. and Trifiro, G. and Fourrier-Reglat, A. and Pariente, A. and Fieschi, M.},
+   title = {Design and validation of an automated method to detect known adverse drug reactions in MEDLINE: a contribution from the EU-ADR project},
+   journal = {J Am Med Inform Assoc},
+   volume = {20},
+   number = {3},
+   pages = {446-52},
+   year = {2013}
+}
+
+@article{
+   author = {Baker, N. C. and Hemminger, B. M.},
+   title = {Mining connections between chemicals, proteins, and diseases extracted from Medline annotations},
+   journal = {J Biomed Inform},
+   volume = {43},
+   number = {4},
+   pages = {510-9},
+   year = {2010}
+}
+
+@article{
+   author = {Banko, M. and Brill, E.},
+   title = {Scaling to very very large corpora for natural language disambiguation},
+   journal = {39th Annual Meeting of the Association for Computational Linguistics, Proceedings of the Conference},
+   pages = {26-33},
+   year = {2001}
+}
+
+@article{
+   author = {Bate, A. and Evans, S. J.},
+   title = {Quantitative signal detection using spontaneous ADR reporting},
+   journal = {Pharmacoepidemiol Drug Saf},
+   volume = {18},
+   number = {6},
+   pages = {427-36},
+   year = {2009}
+}
+
+@article{
+   author = {Bauer-Mehren, A. and Lependu, P. and Iyer, S. V. and Harpaz, R. and Leeper, N. J. and Shah, N. H.},
+   title = {Network analysis of unstructured EHR data for clinical research},
+   journal = {AMIA Summits Transl Sci Proc},
+   volume = {2013},
+   pages = {14-8},
+   year = {2013}
+}
+
+@article{
+   author = {Bauer-Mehren, A. and van Mullingen, E. M. and Avillach, P. and Carrascosa Mdel, C. and Garcia-Serna, R. and Pinero, J. and Singh, B. and Lopes, P. and Oliveira, J. L. and Diallo, G. and Ahlberg Helgee, E. and Boyer, S. and Mestres, J. and Sanz, F. and Kors, J. A. and Furlong, L. I.},
+   title = {Automatic filtering and substantiation of drug safety signals},
+   journal = {PLoS Comput Biol},
+   volume = {8},
+   number = {4},
+   pages = {e1002457},
+   year = {2012}
+}
+
+@article{
+   author = {Bellazzi, Riccardo and Ferrazzi, Fulvia and Sacchi, Lucia},
+   title = {Predictive data mining in clinical medicine: a focus on selected methods and applications},
+   journal = {Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery},
+   volume = {1},
+   number = {5},
+   pages = {416-430},
+   year = {2011}
+}
+
+@article{
+   author = {Bellazzi, R. and Zupan, B.},
+   title = {Predictive data mining in clinical medicine: current issues and guidelines},
+   journal = {Int J Med Inform},
+   volume = {77},
+   number = {2},
+   pages = {81-97},
+   year = {2008}
+}
+
+
+@article{
+   author = {Berenson, R. A.},
+   title = {Confronting The Barriers To Chronic Care Management In Medicare},
+   journal = {Health Affairs},
+   year = {2003}
+}
+
+
+@article{
+   author = {Birman-Deych, E. and Waterman, A. D. and Yan, Y. and Nilasena, D. S. and Radford, M. J. and Gage, B. F.},
+   title = {Accuracy of ICD-9-CM codes for identifying cardiovascular and stroke risk factors},
+   journal = {Med Care},
+   volume = {43},
+   number = {5},
+   pages = {480-5},
+   year = {2005}
+}
+
+@article{
+   author = {Bleeker, S. E. and Moll, H. A. and Steyerberg, E. W. and Donders, A. R. and Derksen-Lubsen, G. and Grobbee, D. E. and Moons, K. G.},
+   title = {External validation is necessary in prediction research: a clinical example},
+   journal = {J Clin Epidemiol},
+   volume = {56},
+   number = {9},
+   pages = {826-32},
+   year = {2003}
+}
+
+@article{
+   author = {Bodenreider, O.},
+   title = {The Unified Medical Language System (UMLS): integrating biomedical terminology},
+   journal = {Nucleic Acids Res},
+   volume = {32},
+   number = {Database issue},
+   pages = {D267-70},
+   year = {2004}
+}
+
+@article{
+   author = {Bodenreider, O. and Stevens, R.},
+   title = {Bio-ontologies: current trends and future directions},
+   journal = {Brief Bioinform},
+   volume = {7},
+   number = {3},
+   pages = {256-74},
+   year = {2006}
+}
+
+@article{
+   author = {Boland, M. R. and Hripcsak, G. and Shen, Y. and Chung, W. K. and Weng, C.},
+   title = {Defining a comprehensive verotype using electronic health records for personalized medicine},
+   journal = {J Am Med Inform Assoc},
+   volume = {20},
+   number = {e2},
+   pages = {e232-8},
+   year = {2013}
+}
+
+@article{
+   author = {Bolton, L. and McNees, P. and van Rijswijk, L. and de Leon, J. and Lyder, C. and Kobza, L. and Edman, K. and Scheurich, A. and Shannon, R. and Toth, M. and Wound Outcomes Study, Group},
+   title = {Wound-healing outcomes using standardized assessment and care in clinical practice},
+   journal = {J Wound Ostomy Continence Nurs},
+   volume = {31},
+   number = {2},
+   pages = {65-71},
+   year = {2004}
+}
+
+@article{
+   author = {Botsis, T. and Nguyen, M. D. and Woo, E. J. and Markatou, M. and Ball, R.},
+   title = {Text mining for the Vaccine Adverse Event Reporting System: medical text classification using informative feature selection},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {631-8},
+   year = {2011}
+}
+
+@article{
+   author = {Bozzuto, T. M. and Fife, C. E.},
+   title = {Adjunctive therapies for wound healing},
+   journal = {JAMA},
+   volume = {284},
+   number = {1},
+   pages = {40; author reply 41},
+   year = {2000}
+}
+
+@article{
+   author = {Brem, H. and Stojadinovic, O. and Diegelmann, R. F. and Entero, H. and Lee, B. and Pastar, I. and Golinko, M. and Rosenberg, H. and Tomic-Canic, M.},
+   title = {Molecular markers in patients with chronic wounds to guide surgical debridement},
+   journal = {Mol Med},
+   volume = {13},
+   number = {1-2},
+   pages = {30-9},
+   year = {2007}
+}
+
+@article{
+   author = {Brown, S. H. and Elkin, P. L. and Rosenbloom, S. T. and Husser, C. and Bauer, B. A. and Lincoln, M. J. and Carter, J. and Erlbaum, M. and Tuttle, M. S.},
+   title = {VA National Drug File Reference Terminology: a cross-institutional content coverage study},
+   journal = {Stud Health Technol Inform},
+   volume = {107},
+   number = {Pt 1},
+   pages = {477-81},
+   year = {2004}
+}
+
+
+@article{
+   author = {Cami, A. and Arnold, A. and Manzi, S. and Reis, B.},
+   title = {Predicting adverse drug events using pharmacological network models},
+   journal = {Sci Transl Med},
+   volume = {3},
+   number = {114},
+   pages = {114ra127},
+   year = {2011}
+}
+
+@article{
+   author = {Cao, H. and Hripcsak, G. and Markatou, M.},
+   title = {A statistical methodology for analyzing co-occurrence data from a large sample},
+   journal = {J Biomed Inform},
+   volume = {40},
+   number = {3},
+   pages = {343-52},
+   year = {2007}
+}
+
+@article{
+   author = {Capasso, V. and Collins, J. and Griffith, C. and Lasala, C. A. and Kilroy, S. and Martin, A. T. and Pedro, J. and Wood, S. L.},
+   title = {Outcomes of a clinical nurse specialist-initiated wound care education program: using the promoting action on research implementation in health services framework},
+   journal = {Clin Nurse Spec},
+   volume = {23},
+   number = {5},
+   pages = {252-7},
+   year = {2009}
+}
+
+@article{
+   author = {Cardinal, M. and Eisenbud, D. E. and Phillips, T. and Harding, K.},
+   title = {Early healing rates and wound area measurements are reliable predictors of later complete wound closure},
+   journal = {Wound Repair Regen},
+   volume = {16},
+   number = {1},
+   pages = {19-22},
+   year = {2008}
+}
+
+@article{
+   author = {Carroll, N. M. and Ellis, J. L. and Luckett, C. F. and Raebel, M. A.},
+   title = {Improving the validity of determining medication adherence from electronic health record medications orders},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {717-20},
+   year = {2011}
+}
+
+@article{
+   author = {Carroll, R. J. and Thompson, W. K. and Eyler, A. E. and Mandelin, A. M. and Cai, T. and Zink, R. M. and Pacheco, J. A. and Boomershine, C. S. and Lasko, T. A. and Xu, H. and Karlson, E. W. and Perez, R. G. and Gainer, V. S. and Murphy, S. N. and Ruderman, E. M. and Pope, R. M. and Plenge, R. M. and Kho, A. N. and Liao, K. P. and Denny, J. C.},
+   title = {Portability of an algorithm to identify rheumatoid arthritis in electronic health records},
+   journal = {J Am Med Inform Assoc},
+   volume = {19},
+   number = {e1},
+   pages = {e162-9},
+   year = {2012}
+}
+
+@article{
+   author = {Carter, M. J. and Fife, C. E. and Walker, D. and Thomson, B.},
+   title = {Estimating the applicability of wound care randomized controlled trials to general wound-care populations by estimating the percentage of individuals excluded from a typical wound-care population in such trials},
+   journal = {Adv Skin Wound Care},
+   volume = {22},
+   number = {7},
+   pages = {316-24},
+   year = {2009}
+}
+
+@article{
+   author = {Caster, O. and Juhlin, K. and Watson, S. and Noren, G. N.},
+   title = {Improved statistical signal detection in pharmacovigilance by combining multiple strength-of-evidence aspects in vigiRank},
+   journal = {Drug Saf},
+   volume = {37},
+   number = {8},
+   pages = {617-28},
+   year = {2014}
+}
+
+@article{
+   author = {Caster, O. and Noren, G. N. and Madigan, D. and Bate, A.},
+   title = {Logistic regression in signal detection: another piece added to the puzzle},
+   journal = {Clin Pharmacol Ther},
+   volume = {94},
+   number = {3},
+   pages = {312},
+   year = {2013}
+}
+
+@article{
+   author = {Caster, Ola and Norén, G. Niklas and Madigan, David and Bate, Andrew},
+   title = {Large-scale regression-based pattern discovery: The example of screening the WHO global drug safety database},
+   journal = {Statistical Analysis and Data Mining},
+   pages = {n/a-n/a},
+   year = {2010}
+}
+
+
+@article{
+   author = {Chapman, W. W. and Bridewell, W. and Hanbury, P. and Cooper, G. F. and Buchanan, B. G.},
+   title = {A simple algorithm for identifying negated findings and diseases in discharge summaries},
+   journal = {J Biomed Inform},
+   volume = {34},
+   number = {5},
+   pages = {301-10},
+   year = {2001}
+}
+
+@article{
+   author = {Chapman, W. W. and Chu, D. and Downing, John N.},
+   title = {ConText: an algorithm for identifying contextual features from clinical text},
+   journal = {Proceedings of the Workshop on BioNLP},
+   pages = {81-88},
+   year = {2007}
+}
+
+@article{
+   author = {Chapman, W. W. and Nadkarni, P. M. and Hirschman, L. and D'Avolio, L. W. and Savova, G. K. and Uzuner, O.},
+   title = {Overcoming barriers to NLP for clinical text: the role of shared tasks and the need for additional creative solutions},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {540-3},
+   year = {2011}
+}
+
+@article{
+   author = {Chen, D. T. and Wynia, M. K. and Moloney, R. M. and Alexander, G. C.},
+   title = {U.S. physician knowledge of the FDA-approved indications and evidence base for commonly prescribed drugs: results of a national survey},
+   journal = {Pharmacoepidemiol Drug Saf},
+   volume = {18},
+   number = {11},
+   pages = {1094-100},
+   year = {2009}
+}
+
+@article{
+   author = {Chen, E. S. and Hripcsak, G. and Xu, H. and Markatou, M. and Friedman, C.},
+   title = {Automated acquisition of disease drug knowledge from biomedical and clinical documents: an initial study},
+   journal = {J Am Med Inform Assoc},
+   volume = {15},
+   number = {1},
+   pages = {87-98},
+   year = {2008}
+}
+
+@article{
+   author = {Chen, L. and Friedman, C.},
+   title = {Extracting phenotypic information from the literature via natural language processing},
+   journal = {Stud Health Technol Inform},
+   volume = {107},
+   number = {Pt 2},
+   pages = {758-62},
+   year = {2004}
+}
+
+@article{
+   author = {Chen, R. and Mias, G. I. and Li-Pook-Than, J. and Jiang, L. and Lam, H. Y. and Chen, R. and Miriami, E. and Karczewski, K. J. and Hariharan, M. and Dewey, F. E. and Cheng, Y. and Clark, M. J. and Im, H. and Habegger, L. and Balasubramanian, S. and O'Huallachain, M. and Dudley, J. T. and Hillenmeyer, S. and Haraksingh, R. and Sharon, D. and Euskirchen, G. and Lacroute, P. and Bettinger, K. and Boyle, A. P. and Kasowski, M. and Grubert, F. and Seki, S. and Garcia, M. and Whirl-Carrillo, M. and Gallardo, M. and Blasco, M. A. and Greenberg, P. L. and Snyder, P. and Klein, T. E. and Altman, R. B. and Butte, A. J. and Ashley, E. A. and Gerstein, M. and Nadeau, K. C. and Tang, H. and Snyder, M.},
+   title = {Personal omics profiling reveals dynamic molecular and medical phenotypes},
+   journal = {Cell},
+   volume = {148},
+   number = {6},
+   pages = {1293-307},
+   year = {2012}
+}
+
+@article{
+   author = {Chua Chiaco, J. M. and Parikh, N. I. and Fergusson, D. J.},
+   title = {The jugular venous pressure revisited},
+   journal = {Cleve Clin J Med},
+   volume = {80},
+   number = {10},
+   pages = {638-44},
+   year = {2013}
+}
+
+@article{
+   author = {CJC, Burges},
+   title = {A Tutorial on Support Vector Machines for Pattern Recognition},
+   journal = {Data Mining and Knowledge Discovery},
+   volume = {2},
+   pages = {121-167},
+   year = {1998}
+}
+
+@article{
+   author = {Clark, C. and Aberdeen, J. and Coarr, M. and Tresner-Kirsch, D. and Wellner, B. and Yeh, A. and Hirschman, L.},
+   title = {MITRE system for clinical assertion status classification},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {563-7},
+   year = {2011}
+}
+
+@article{
+   author = {Classen, D. C. and Pestotnik, S. L. and Evans, R. S. and Lloyd, J. F. and Burke, J. P.},
+   title = {Adverse drug events in hospitalized patients. Excess length of stay, extra costs, and attributable mortality},
+   journal = {JAMA},
+   volume = {277},
+   number = {4},
+   pages = {301-6},
+   year = {1997}
+}
+
+@article{
+   author = {Classen, D. C. and Resar, R. and Griffin, F. and Federico, F. and Frankel, T. and Kimmel, N. and Whittington, J. C. and Frankel, A. and Seger, A. and James, B. C.},
+   title = {'Global trigger tool' shows that adverse events in hospitals may be ten times greater than previously measured},
+   journal = {Health Aff (Millwood)},
+   volume = {30},
+   number = {4},
+   pages = {581-9},
+   year = {2011}
+}
+
+@article{
+   author = {Clemens, M. W. and Parikh, P. and Hall, M. M. and Attinger, C. E.},
+   title = {External fixators as an adjunct to wound healing},
+   journal = {Foot Ankle Clin},
+   volume = {13},
+   number = {1},
+   pages = {145-56, vi-vii},
+   year = {2008}
+}
+@article{
+   author = {Cole, T. S. and Frankovich, J. and Iyer, S. and Lependu, P. and Bauer-Mehren, A. and Shah, N. H.},
+   title = {Profiling risk factors for chronic uveitis in juvenile idiopathic arthritis: a new model for EHR-based research},
+   journal = {Pediatr Rheumatol Online J},
+   volume = {11},
+   number = {1},
+   pages = {45},
+   year = {2013}
+}
+
+@article{
+   author = {Coloma, P. M. and Trifiro, G. and Schuemie, M. J. and Gini, R. and Herings, R. and Hippisley-Cox, J. and Mazzaglia, G. and Picelli, G. and Corrao, G. and Pedersen, L. and van der Lei, J. and Sturkenboom, M.},
+   title = {Electronic healthcare databases for active drug safety surveillance: is there enough leverage?},
+   journal = {Pharmacoepidemiol Drug Saf},
+   volume = {21},
+   number = {6},
+   pages = {611-21},
+   year = {2012}
+}
+
+@article{
+   author = {Cook, N. R.},
+   title = {Use and misuse of the receiver operating characteristic curve in risk prediction},
+   journal = {Circulation},
+   volume = {115},
+   number = {7},
+   pages = {928-35},
+   year = {2007}
+}
+
+@article{
+   author = {Cook, N. R.},
+   title = {Statistical evaluation of prognostic versus diagnostic models: beyond the ROC curve},
+   journal = {Clin Chem},
+   volume = {54},
+   number = {1},
+   pages = {17-23},
+   year = {2008}
+}
+
+@article{
+   author = {Cook, S. and Conrad, C. and Fowlkes, A. L. and Mohebbi, M. H.},
+   title = {Assessing Google flu trends performance in the United States during the 2009 influenza virus A (H1N1) pandemic},
+   journal = {PLoS One},
+   volume = {6},
+   number = {8},
+   pages = {e23610},
+   year = {2011}
+}
+
+@article{
+   author = {Cowie, M. R. and Sarkar, S. and Koehler, J. and Whellan, D. J. and Crossley, G. H. and Tang, W. H. and Abraham, W. T. and Sharma, V. and Santini, M.},
+   title = {Development and validation of an integrated diagnostic algorithm derived from parameters monitored in implantable devices for identifying patients at risk for heart failure hospitalization in an ambulatory setting},
+   journal = {Eur Heart J},
+   volume = {34},
+   number = {31},
+   pages = {2472-80},
+   year = {2013}
+}
+
+@article{
+   author = {Crovetti, G. and Martinelli, G. and Issi, M. and Barone, M. and Guizzardi, M. and Campanati, B. and Moroni, M. and Carabelli, A.},
+   title = {Platelet gel for healing cutaneous chronic wounds},
+   journal = {Transfus Apher Sci},
+   volume = {30},
+   number = {2},
+   pages = {145-51},
+   year = {2004}
+}
+
+@article{
+   author = {D'Avolio, L. W. and Nguyen, T. M. and Farwell, W. R. and Chen, Y. and Fitzmeyer, F. and Harris, O. M. and Fiore, L. D.},
+   title = {Evaluation of a generalizable approach to clinical information retrieval using the automated retrieval console (ARC)},
+   journal = {J Am Med Inform Assoc},
+   volume = {17},
+   number = {4},
+   pages = {375-82},
+   year = {2010}
+}
+
+@article{
+   author = {D'Avolio, L. W. and Nguyen, T. M. and Goryachev, S. and Fiore, L. D.},
+   title = {Automated concept-level information extraction to reduce the need for custom software and rules development},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {607-13},
+   year = {2011}
+}
+
+@article{
+   author = {Dal Pan, G. J.},
+   title = {Monitoring the safety of medicines used off-label},
+   journal = {Clin Pharmacol Ther},
+   volume = {91},
+   number = {5},
+   pages = {787-95},
+   year = {2012}
+}
+
+@article{
+   author = {Davis, M. F. and Sriram, S. and Bush, W. S. and Denny, J. C. and Haines, J. L.},
+   title = {Automated extraction of clinical traits of multiple sclerosis in electronic medical records},
+   journal = {J Am Med Inform Assoc},
+   volume = {20},
+   number = {e2},
+   pages = {e334-40},
+   year = {2013}
+}
+
+@article{
+   author = {de Bruijn, B. and Cherry, C. and Kiritchenko, S. and Martin, J. and Zhu, X.},
+   title = {Machine-learned solutions for three stages of clinical information extraction: the state of the art at i2b2 2010},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {557-62},
+   year = {2011}
+}
+
+
+@article{
+   author = {DeLong, E. R. and DeLong, D. M. and Clarke-Pearson, D. L.},
+   title = {Comparing the areas under two or more correlated receiver operating characteristic curves: a nonparametric approach},
+   journal = {Biometrics},
+   volume = {44},
+   number = {3},
+   pages = {837-45},
+   year = {1988}
+}
+
+@article{
+   author = {Denny, J. C. and Bastarache, L. and Ritchie, M. D. and Carroll, R. J. and Zink, R. and Mosley, J. D. and Field, J. R. and Pulley, J. M. and Ramirez, A. H. and Bowton, E. and Basford, M. A. and Carrell, D. S. and Peissig, P. L. and Kho, A. N. and Pacheco, J. A. and Rasmussen, L. V. and Crosslin, D. R. and Crane, P. K. and Pathak, J. and Bielinski, S. J. and Pendergrass, S. A. and Xu, H. and Hindorff, L. A. and Li, R. and Manolio, T. A. and Chute, C. G. and Chisholm, R. L. and Larson, E. B. and Jarvik, G. P. and Brilliant, M. H. and McCarty, C. A. and Kullo, I. J. and Haines, J. L. and Crawford, D. C. and Masys, D. R. and Roden, D. M.},
+   title = {Systematic comparison of phenome-wide association study of electronic medical record data and genome-wide association study data},
+   journal = {Nat Biotechnol},
+   volume = {31},
+   number = {12},
+   pages = {1102-10},
+   year = {2013}
+}
+
+@article{
+   author = {Desai, A. S.},
+   title = {Home monitoring heart failure care does not improve patient outcomes: looking beyond telephone-based disease management},
+   journal = {Circulation},
+   volume = {125},
+   number = {6},
+   pages = {828-36},
+   year = {2012}
+}
+
+@article{
+   author = {Deshmukh, V. G. and Meystre, S. M. and Mitchell, J. A.},
+   title = {Evaluating the informatics for integrating biology and the bedside system for clinical research},
+   journal = {BMC Med Res Methodol},
+   volume = {9},
+   pages = {70},
+   year = {2009}
+}
+
+@article{
+   author = {Draelos, Z. D. and Rizer, R. L. and Trookman, N. S.},
+   title = {A comparison of postprocedural wound care treatments: do antibiotic-based ointments improve outcomes?},
+   journal = {J Am Acad Dermatol},
+   volume = {64},
+   number = {3 Suppl},
+   pages = {S23-9},
+   year = {2011}
+}
+
+@article{
+   author = {Driver, V. R. and Fabbi, M. and Lavery, L. A. and Gibbons, G.},
+   title = {The costs of diabetic foot: the economic case for the limb salvage team},
+   journal = {J Vasc Surg},
+   volume = {52},
+   number = {3 Suppl},
+   pages = {17S-22S},
+   year = {2010}
+}
+
+@article{
+   author = {Duke, J. D. and Han, X. and Wang, Z. and Subhadarshini, A. and Karnik, S. D. and Li, X. and Hall, S. D. and Jin, Y. and Callaghan, J. T. and Overhage, M. J. and Flockhart, D. A. and Strother, R. M. and Quinney, S. K. and Li, L.},
+   title = {Literature based drug interaction prediction with clinical assessment using electronic medical records: novel myopathy associated drug interactions},
+   journal = {PLoS Comput Biol},
+   volume = {8},
+   number = {8},
+   pages = {e1002614},
+   year = {2012}
+}
+
+@article{
+   author = {DuMouchel, W. and Ryan, P. B. and Schuemie, M. J. and Madigan, D.},
+   title = {Evaluation of disproportionality safety signaling applied to healthcare databases},
+   journal = {Drug Saf},
+   volume = {36 Suppl 1},
+   pages = {S123-32},
+   year = {2013}
+}
+
+@article{
+   author = {Dutta, P. and Courties, G. and Wei, Y. and Leuschner, F. and Gorbatov, R. and Robbins, C. S. and Iwamoto, Y. and Thompson, B. and Carlson, A. L. and Heidt, T. and Majmudar, M. D. and Lasitschka, F. and Etzrodt, M. and Waterman, P. and Waring, M. T. and Chicoine, A. T. and van der Laan, A. M. and Niessen, H. W. and Piek, J. J. and Rubin, B. B. and Butany, J. and Stone, J. R. and Katus, H. A. and Murphy, S. A. and Morrow, D. A. and Sabatine, M. S. and Vinegoni, C. and Moskowitz, M. A. and Pittet, M. J. and Libby, P. and Lin, C. P. and Swirski, F. K. and Weissleder, R. and Nahrendorf, M.},
+   title = {Myocardial infarction accelerates atherosclerosis},
+   journal = {Nature},
+   volume = {487},
+   number = {7407},
+   pages = {325-9},
+   year = {2012}
+}
+
+@article{
+   author = {Edgar, R. and Domrachev, M. and Lash, A. E.},
+   title = {Gene Expression Omnibus: NCBI gene expression and hybridization array data repository},
+   journal = {Nucleic Acids Res},
+   volume = {30},
+   number = {1},
+   pages = {207-10},
+   year = {2002}
+}
+
+@article{
+   author = {Eldaief, M. C. and Deckersbach, T. and Carlson, L. E. and Beucke, J. C. and Dougherty, D. D.},
+   title = {Emotional and cognitive stimuli differentially engage the default network during inductive reasoning},
+   journal = {Soc Cogn Affect Neurosci},
+   volume = {7},
+   number = {4},
+   pages = {380-92},
+   year = {2012}
+}
+
+@article{
+   author = {Epstein, R. S. and Huang, S. M.},
+   title = {The many sides of off-label prescribing},
+   journal = {Clin Pharmacol Ther},
+   volume = {91},
+   number = {5},
+   pages = {755-8},
+   year = {2012}
+}
+
+@article{
+   author = {Falk, E. B. and Spunt, R. P. and Lieberman, M. D.},
+   title = {Ascribing beliefs to ingroup and outgroup political candidates: neural correlates of perspective-taking, issue importance and days until the election},
+   journal = {Philos Trans R Soc Lond B Biol Sci},
+   volume = {367},
+   number = {1589},
+   pages = {731-43},
+   year = {2012}
+}
+
+@article{
+   author = {Fife, C. E., Carter M.J., Walker D., Thomson B.},
+   title = {Wound Care Outcomes and Associated Cost Among Patients Treated in US Outpatient Wound Centers: Data From the US Wound Registry},
+   journal = {Wounds},
+   volume = {24},
+   number = {1},
+   pages = {10-17},
+   year = {2012}
+}
+
+@article{
+   author = {Fife, C. E. and Carter, M. J. and Walker, D.},
+   title = {Why is it so hard to do the right thing in wound care?},
+   journal = {Wound Repair Regen},
+   volume = {18},
+   number = {2},
+   pages = {154-8},
+   year = {2010}
+}
+
+@article{
+   author = {Fife, C. E. and Carter, M. J. and Walker, D. and Thomson, B. and Eckert, K. A.},
+   title = {Diabetic foot ulcer off-loading: The gap between evidence and practice. Data from the US Wound Registry},
+   journal = {Adv Skin Wound Care},
+   volume = {27},
+   number = {7},
+   pages = {310-6},
+   year = {2014}
+}
+
+@article{
+   author = {Fife, C. E. and Otto, G. and Walker, D. and Turner, T. and Smith, L.},
+   title = {Healing dehisced surgical wounds with negative pressure wound therapy},
+   journal = {Ostomy Wound Manage},
+   volume = {50},
+   number = {4A Suppl},
+   pages = {28-31},
+   year = {2004}
+}
+
+@article{
+   author = {Fife, C. E. and Walker, D. and Farrow, W. and Otto, G.},
+   title = {Wound center facility billing: A retrospective analysis of time, wound size, and acuity scoring for determining facility level of service},
+   journal = {Ostomy Wound Manage},
+   volume = {53},
+   number = {1},
+   pages = {34-44},
+   year = {2007}
+}
+
+@article{
+   author = {Fife, C. E. and Walker, D. and Thomson, B. and Otto, G.},
+   title = {The safety of negative pressure wound therapy using vacuum-assisted closure in diabetic foot ulcers treated in the outpatient setting},
+   journal = {Int Wound J},
+   volume = {5 Suppl 2},
+   pages = {17-22},
+   year = {2008}
+}
+
+@article{
+   author = {Fife, C. E. and Wall, V. and Carter, M. J. and Walker, D. and Thomson, B.},
+   title = {Examining the relationship between physician and facility level-of-service coding in outpatient wound centers: results of a multicenter study},
+   journal = {Ostomy Wound Manage},
+   volume = {58},
+   number = {3},
+   pages = {20-2, 24, 26-8},
+   year = {2012}
+}
+
+@article{
+   author = {Fife, C. E. and Yankowsky, K. W. and Ayello, E. A. and Capitulo, K. L. and Fowler, E. and Krasner, D. L. and Mulder, G. and Sibbald, R. G.},
+   title = {Legal issues in the care of pressure ulcer patients: key concepts for healthcare providers--a consensus paper from the International Expert Wound Care Advisory Panel(c)},
+   journal = {Adv Skin Wound Care},
+   volume = {23},
+   number = {11},
+   pages = {493-507},
+   year = {2010}
+}
+
+@article{
+   author = {Flowers, C. M. and Racoosin, J. A. and Kortepeter, C.},
+   title = {Seizure activity and off-label use of tiagabine},
+   journal = {N Engl J Med},
+   volume = {354},
+   number = {7},
+   pages = {773-4},
+   year = {2006}
+}
+
+@article{
+   author = {Fotsch, E. J.},
+   title = {Electronic health records: the new vehicle for drug labeling, safety, and efficacy},
+   journal = {Clin Pharmacol Ther},
+   volume = {91},
+   number = {5},
+   pages = {917-9},
+   year = {2012}
+}
+
+@article{
+   author = {Friedman, C.},
+   title = {A broad-coverage natural language processing system},
+   journal = {Proc AMIA Symp},
+   pages = {270-4},
+   year = {2000}
+}
+
+@article{
+   author = {Friedman, C.},
+   title = {Discovering Novel Adverse Drug Events Using Natural Language Processing and Mining of the Electronic Health Record},
+   journal = {AMIE 2009: Proceedings of the 12th Conference on Artificial Intelligence In Medicine},
+   pages = {1-5},
+   year = {2009}
+}
+
+@article{
+   author = {Friedman, C. and Shagina, L. and Lussier, Y. and Hripcsak, G.},
+   title = {Automated encoding of clinical documents based on natural language processing},
+   journal = {J Am Med Inform Assoc},
+   volume = {11},
+   number = {5},
+   pages = {392-402},
+   year = {2004}
+}
+
+@article{
+   author = {Friedman, C. P. and Wong, A. K. and Blumenthal, D.},
+   title = {Achieving a nationwide learning health system},
+   journal = {Sci Transl Med},
+   volume = {2},
+   number = {57},
+   pages = {57cm29},
+   year = {2010}
+}
+
+@article{
+   author = {Friedman, J.},
+   title = {Stochastic Gradient Boosting},
+   journal = {Tecnical Report (Department of Statistics), Stanford University, Stanford, CA.  http://www-stat.stanford.edu/jhp/ftp/stobst.pdf},
+   year = {1999}
+}
+
+@article{
+   author = {Friedman, J. and Hastie, T.  and Tibshirani, R.},
+   title = {Regularized Paths for Generalized Linear Models via Coordinate Descent},
+   journal = {Journal of Statistical Software},
+   volume = {33},
+   number = {1},
+   year = {2010}
+}
+
+
+@article{
+   author = {G., Ridgeway},
+   title = {gbm: Generalized Boosted Regression Models.  R Package Ver. 2.1.},
+   year = {2007},
+   url = {http://cran.r-project.org/web/packages/gbm/}
+}
+
+@article{
+   author = {G.W., Brier},
+   title = {Verification of forecasts expressed in terms of probability},
+   journal = {Monthly Weather Rev.},
+   volume = {78},
+   pages = {1-3},
+   year = {1950}
+}
+
+@article{
+   author = {Gagne, J. J. and Glynn, R. J. and Rassen, J. A. and Walker, A. M. and Daniel, G. W. and Sridhar, G. and Schneeweiss, S.},
+   title = {Active safety monitoring of newly marketed medications in a distributed data network: application of a semi-automated monitoring system},
+   journal = {Clin Pharmacol Ther},
+   volume = {92},
+   number = {1},
+   pages = {80-6},
+   year = {2012}
+}
+
+@article{
+   author = {Gagne, J. J. and Rassen, J. A. and Walker, A. M. and Glynn, R. J. and Schneeweiss, S.},
+   title = {Active safety monitoring of new medical products using electronic healthcare data: selecting alerting rules},
+   journal = {Epidemiology},
+   volume = {23},
+   number = {2},
+   pages = {238-46},
+   year = {2012}
+}
+
+@article{
+   author = {Gagne, J. J. and Walker, A. M. and Glynn, R. J. and Rassen, J. A. and Schneeweiss, S.},
+   title = {An event-based approach for comparing the performance of methods for prospective medical product monitoring},
+   journal = {Pharmacoepidemiol Drug Saf},
+   volume = {21},
+   number = {6},
+   pages = {631-9},
+   year = {2012}
+}
+
+
+@article{
+   author = {Garla, V. and Lo Re, V., 3rd and Dorey-Stein, Z. and Kidwai, F. and Scotch, M. and Womack, J. and Justice, A. and Brandt, C.},
+   title = {The Yale cTAKES extensions for document classification: architecture and application},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {614-20},
+   year = {2011}
+}
+
+@article{
+   author = {Garla, V. N. and Brandt, C.},
+   title = {Ontology-guided feature engineering for clinical text classification},
+   journal = {J Biomed Inform},
+   volume = {45},
+   number = {5},
+   pages = {992-8},
+   year = {2012}
+}
+
+@article{
+   author = {Genkin, Alexander and Lewis, David D. and Madigan, David},
+   title = {Large-Scale Bayesian Logistic Regression for Text Categorization},
+   journal = {Technometrics},
+   volume = {49},
+   number = {3},
+   pages = {291-304},
+   year = {2007}
+}
+
+@article{
+   author = {Gerstein, M. B. and Kundaje, A. and Hariharan, M. and Landt, S. G. and Yan, K. K. and Cheng, C. and Mu, X. J. and Khurana, E. and Rozowsky, J. and Alexander, R. and Min, R. and Alves, P. and Abyzov, A. and Addleman, N. and Bhardwaj, N. and Boyle, A. P. and Cayting, P. and Charos, A. and Chen, D. Z. and Cheng, Y. and Clarke, D. and Eastman, C. and Euskirchen, G. and Frietze, S. and Fu, Y. and Gertz, J. and Grubert, F. and Harmanci, A. and Jain, P. and Kasowski, M. and Lacroute, P. and Leng, J. and Lian, J. and Monahan, H. and O'Geen, H. and Ouyang, Z. and Partridge, E. C. and Patacsil, D. and Pauli, F. and Raha, D. and Ramirez, L. and Reddy, T. E. and Reed, B. and Shi, M. and Slifer, T. and Wang, J. and Wu, L. and Yang, X. and Yip, K. Y. and Zilberman-Schapira, G. and Batzoglou, S. and Sidow, A. and Farnham, P. J. and Myers, R. M. and Weissman, S. M. and Snyder, M.},
+   title = {Architecture of the human regulatory network derived from ENCODE data},
+   journal = {Nature},
+   volume = {489},
+   number = {7414},
+   pages = {91-100},
+   year = {2012}
+}
+
+@article{
+   author = {Gibbons, R. D. and Amatya, A. K. and Brown, C. H. and Hur, K. and Marcus, S. M. and Bhaumik, D. K. and Mann, J. J.},
+   title = {Post-approval drug safety surveillance},
+   journal = {Annu Rev Public Health},
+   volume = {31},
+   pages = {419-37},
+   year = {2010}
+}
+
+@article{
+   author = {Ginsberg, J. and Mohebbi, M. H. and Patel, R. S. and Brammer, L. and Smolinski, M. S. and Brilliant, L.},
+   title = {Detecting influenza epidemics using search engine query data},
+   journal = {Nature},
+   volume = {457},
+   number = {7232},
+   pages = {1012-4},
+   year = {2009}
+}
+
+@article{
+   author = {Goldstein, I. and Uzuner, O.},
+   title = {Specializing for predicting obesity and its co-morbidities},
+   journal = {J Biomed Inform},
+   volume = {42},
+   number = {5},
+   pages = {873-86},
+   year = {2009}
+}
+
+@article{
+   author = {Gottlieb, A. and Stein, G. Y. and Oron, Y. and Ruppin, E. and Sharan, R.},
+   title = {INDI: a computational framework for inferring drug interactions and their associated recommendations},
+   journal = {Mol Syst Biol},
+   volume = {8},
+   pages = {592},
+   year = {2012}
+}
+
+@article{
+   author = {Gottlieb, A. and Stein, G. Y. and Ruppin, E. and Sharan, R.},
+   title = {PREDICT: a method for inferring novel drug indications with application to personalized medicine},
+   journal = {Mol Syst Biol},
+   volume = {7},
+   pages = {496},
+   year = {2011}
+}
+
+@article{
+   author = {Gottrup, F.},
+   title = {A specialized wound-healing center concept: importance of a multidisciplinary department structure and surgical treatment facilities in the treatment of chronic wounds},
+   journal = {Am J Surg},
+   volume = {187},
+   number = {5A},
+   pages = {38S-43S},
+   year = {2004}
+}
+
+@article{
+   author = {Grady, K. L. and Dracup, K. and Kennedy, G. and Moser, D. K. and Piano, M. and Stevenson, L. W. and Young, J. B.},
+   title = {Team management of patients with heart failure: A statement for healthcare professionals from The Cardiovascular Nursing Council of the American Heart Association},
+   journal = {Circulation},
+   volume = {102},
+   number = {19},
+   pages = {2443-56},
+   year = {2000}
+}
+
+@article{
+   author = {Grady, K. L. and Dracup, K. and Kennedy, G. and Moser, D. K. and Piano, M. and Stevenson, L. W. and Young, J. B.},
+   title = {Team management of patients with heart failure: A statement for healthcare professionals from The Cardiovascular Nursing Council of the American Heart Association},
+   journal = {Circulation},
+   volume = {102},
+   number = {19},
+   pages = {2443-56},
+   year = {2000}
+}
+
+
+@article{
+   author = {Haerian, K. and Varn, D. and Vaidya, S. and Ena, L. and Chase, H. S. and Friedman, C.},
+   title = {Detection of pharmacovigilance-related adverse events using electronic health records and automated methods},
+   journal = {Clin Pharmacol Ther},
+   volume = {92},
+   number = {2},
+   pages = {228-34},
+   year = {2012}
+}
+
+
+@article{
+   author = {Hagenbeek, A. and Gadeberg, O. and Johnson, P. and Pedersen, L. M. and Walewski, J. and Hellmann, A. and Link, B. K. and Robak, T. and Wojtukiewicz, M. and Pfreundschuh, M. and Kneba, M. and Engert, A. and Sonneveld, P. and Flensburg, M. and Petersen, J. and Losic, N. and Radford, J.},
+   title = {First clinical use of ofatumumab, a novel fully human anti-CD20 monoclonal antibody in relapsed or refractory follicular lymphoma: results of a phase 1/2 trial},
+   journal = {Blood},
+   volume = {111},
+   number = {12},
+   pages = {5486-95},
+   year = {2008}
+}
+
+@article{
+   author = {Halevy, A. and Norvig, P. and Pereira, F.},
+   title = {The Unreasonable Effectiveness of Data},
+   journal = {Ieee Intelligent Systems},
+   volume = {24},
+   number = {2},
+   pages = {8-12},
+   year = {2009}
+}
+
+
+@article{
+   author = {Hanley, J. A. and McNeil, B. J.},
+   title = {The meaning and use of the area under a receiver operating characteristic (ROC) curve},
+   journal = {Radiology},
+   volume = {143},
+   number = {1},
+   pages = {29-36},
+   year = {1982}
+}
+
+@article{
+   author = {Harpaz, R. and Callahan, A. and Tamang, S. and Low, Y. and Odgers, D. and Finlayson, S. and Jung, K. and LePendu, P. and Shah, N. H.},
+   title = {Text mining for adverse drug events: the promise, challenges, and state of the art},
+   journal = {Drug Saf},
+   volume = {37},
+   number = {10},
+   pages = {777-90},
+   year = {2014}
+}
+
+@article{
+   author = {Harpaz, R. and Chase, H. S. and Friedman, C.},
+   title = {Mining multi-item drug adverse effect associations in spontaneous reporting systems},
+   journal = {BMC Bioinformatics},
+   volume = {11 Suppl 9},
+   pages = {S7},
+   year = {2010}
+}
+
+@article{
+   author = {Harpaz, R. and DuMouchel, W. and LePendu, P. and Bauer-Mehren, A. and Ryan, P. and Shah, N. H.},
+   title = {Performance of pharmacovigilance signal-detection algorithms for the FDA adverse event reporting system},
+   journal = {Clin Pharmacol Ther},
+   volume = {93},
+   number = {6},
+   pages = {539-46},
+   year = {2013}
+}
+
+@article{
+   author = {Harpaz, R. and DuMouchel, W. and LePendu, P. and Bauer-Mehren, A. and Ryan, P. and Shah, N. H.},
+   title = {Response to "Logistic regression in signal detection: another piece added to the puzzle"},
+   journal = {Clin Pharmacol Ther},
+   volume = {94},
+   number = {3},
+   pages = {313},
+   year = {2013}
+}
+
+@misc{harpaz:empirical,
+   author = {Harpaz, Rave and DuMouchel, William and LePendu, Paea and Shah, Nigam H.},
+   title = {Empirical bayes model to combine signals of adverse drug reactions},
+   pages = {1339-1347},
+   year = {2013}
+}
+
+@article{
+   author = {Harpaz, R. and DuMouchel, W. and Shah, N. H. and Madigan, D. and Ryan, P. and Friedman, C.},
+   title = {Novel data-mining methodologies for adverse drug event discovery and analysis},
+   journal = {Clin Pharmacol Ther},
+   volume = {91},
+   number = {6},
+   pages = {1010-21},
+   year = {2012}
+}
+
+@article{
+   author = {Harpaz, R. and Haerian, K. and Chase, H. S. and Friedman, C.},
+   title = {Statistical Mining of Potential Drug Interaction Adverse Effects in FDA's Spontaneous Reporting System},
+   journal = {AMIA Annu Symp Proc},
+   volume = {2010},
+   pages = {281-5},
+   year = {2010}
+}
+
+@article{
+   author = {Harpaz, Rave and Odgers, David and Gaskin, Greg and DuMouchel, William and Winnenburg, Rainer and Bodenreider, Olivier and Ripple, Anna and Szarfman, Ana and Sorbello, Alfred and Horvitz, Eric and White, Ryen W. and Shah, Nigam H.},
+   title = {A time-indexed reference standard of adverse drug reactions},
+   journal = {Scientific Data},
+   volume = {1},
+   year = {2014}
+}
+
+@article{
+   author = {Harpaz, R. and Perez, H. and Chase, H. S. and Rabadan, R. and Hripcsak, G. and Friedman, C.},
+   title = {Biclustering of adverse drug events in the FDA's spontaneous reporting system},
+   journal = {Clin Pharmacol Ther},
+   volume = {89},
+   number = {2},
+   pages = {243-50},
+   year = {2011}
+}
+
+@article{
+   author = {Harrison, Beverly L. and Consolvo, Sunny and Choudhury, Tanzeem},
+   title = {Using Multi-modal Sensing for Human Activity Modeling in the Real World},
+   pages = {463-478},
+   year = {2010}
+}
+
+@article{
+   author = {Hayat, S. J. and Uppal, S. S. and Narayanan Nampoory, M. R. and Johny, K. V. and Gupta, R. and Al-Oun, M.},
+   title = {Safety and efficacy of infliximab in a patient with active WHO class IV lupus nephritis},
+   journal = {Clin Rheumatol},
+   volume = {26},
+   number = {6},
+   pages = {973-5},
+   year = {2007}
+}
+
+@article{
+   author = {Hennessy, S. and Flockhart, D. A.},
+   title = {The need for translational research on drug-drug interactions},
+   journal = {Clin Pharmacol Ther},
+   volume = {91},
+   number = {5},
+   pages = {771-3},
+   year = {2012}
+}
+
+@article{
+   author = {Hess, C. T.},
+   title = {Managed care and wound care: proactive strategies for successful outcomes},
+   journal = {Ostomy Wound Manage},
+   volume = {42},
+   number = {3},
+   pages = {94, 96, 98},
+   year = {1996}
+}
+
+@article{
+   author = {Hess, C. T.},
+   title = {Putting the squeeze on venous ulcers},
+   journal = {Nursing},
+   volume = {34 Suppl Travel},
+   pages = {8-13; quiz 13-4},
+   year = {2004}
+}
+
+@article{
+   author = {Hidalgo, C. A. and Blumm, N. and Barabasi, A. L. and Christakis, N. A.},
+   title = {A dynamic network approach for the study of human phenotypes},
+   journal = {PLoS Comput Biol},
+   volume = {5},
+   number = {4},
+   pages = {e1000353},
+   year = {2009}
+}
+
+@article{
+   author = {Ho, J. C. and Ghosh, J. and Steinhubl, S. R. and Stewart, W. F. and Denny, J. C. and Malin, B. A. and Sun, J.},
+   title = {Limestone: high-throughput candidate phenotype generation via tensor factorization},
+   journal = {J Biomed Inform},
+   volume = {52},
+   pages = {199-211},
+   year = {2014}
+}
+
+@article{
+   author = {Horn, S. D. and Fife, C. E. and Smout, R. J. and Barrett, R. S. and Thomson, B.},
+   title = {Development of a wound healing index for patients with chronic wounds},
+   journal = {Wound Repair Regen},
+   volume = {21},
+   number = {6},
+   pages = {823-32},
+   year = {2013}
+}
+
+@article{
+   author = {Horwitz, R. I. and Feinstein, A. R.},
+   title = {The problem of "protopathic bias" in case-control studies},
+   journal = {Am J Med},
+   volume = {68},
+   number = {2},
+   pages = {255-8},
+   year = {1980}
+}
+
+
+@article{
+   author = {Hripcsak, G. and Rothschild, A. S.},
+   title = {Agreement, the f-measure, and reliability in information retrieval},
+   journal = {J Am Med Inform Assoc},
+   volume = {12},
+   number = {3},
+   pages = {296-8},
+   year = {2005}
+}
+
+@article{
+   author = {Iyer, S.V., LePendu, P., Harpaz, R., Bauer-Mehren, A., Shah, N.H.},
+   title = {Learning Signals of Adverse Drug-Drug Interactions from the Unstructured Text of Electronic Health Records},
+   journal = {AMIA Summits Transl Sci Proc},
+   volume = {2013},
+   year = {2013}
+}
+
+@article{
+   author = {Iyer, S. V. and Harpaz, R. and Lependu, P. and Bauer-Mehren, A. and Shah, N. H.},
+   title = {Mining clinical text for signals of adverse drug-drug interactions},
+   journal = {J Am Med Inform Assoc},
+   volume = {21},
+   number = {2},
+   pages = {353-62},
+   year = {2014}
+}
+
+@article{
+   author = {Jensen, P. B. and Jensen, L. J. and Brunak, S.},
+   title = {Mining electronic health records: towards better research applications and clinical care},
+   journal = {Nat Rev Genet},
+   volume = {13},
+   number = {6},
+   pages = {395-405},
+   year = {2012}
+}
+
+
+@article{
+   author = {Jiang, M. and Chen, Y. and Liu, M. and Rosenbloom, S. T. and Mani, S. and Denny, J. C. and Xu, H.},
+   title = {A study of machine-learning-based approaches to extract clinical entities and their assertions from discharge summaries},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {601-6},
+   year = {2011}
+}
+
+
+@article{
+   author = {Jonquet, C. and Musen, M. A. and Shah, N. H.},
+   title = {Building a biomedical ontology recommender web service},
+   journal = {J Biomed Semantics},
+   volume = {1 Suppl 1},
+   pages = {S1},
+   year = {2010}
+}
+
+@article{
+   author = {Jonquet, C. and Shah, N. H. and Musen, M. A.},
+   title = {The open biomedical annotator},
+   journal = {Summit on Translat Bioinforma},
+   volume = {2009},
+   pages = {56-60},
+   year = {2009}
+}
+
+@article{
+   author = {Jordan, Michael I. and Wainwright, Martin J.},
+   title = {Graphical Models, Exponential Families, and Variational Inference},
+   journal = {Foundations and Trends® in Machine Learning},
+   volume = {1},
+   number = {1–2},
+   pages = {1-305},
+   year = {2007}
+}
+
+@article{
+   author = {Jung, K. and LePendu, P. and Chen, W. S. and Iyer, S. V. and Readhead, B. and Dudley, J. T. and Shah, N. H.},
+   title = {Automated detection of off-label drug use},
+   journal = {PLoS One},
+   volume = {9},
+   number = {2},
+   year = {2014}
+}
+
+@article{
+   author = {Jung, K. and LePendu, P. and Iyer, S. and Bauer-Mehren, A. and Percha, B. and Shah, N. H.},
+   title = {Functional evaluation of out-of-the-box text-mining tools for data-mining tasks},
+   journal = {J Am Med Inform Assoc},
+   year = {2014}
+}
+
+@article{
+   author = {Kalisch, M. and Fellinghauer, B. A. and Grill, E. and Maathuis, M. H. and Mansmann, U. and Buhlmann, P. and Stucki, G.},
+   title = {Understanding human functioning using graphical models},
+   journal = {BMC Med Res Methodol},
+   volume = {10},
+   pages = {14},
+   year = {2010}
+}
+
+@article{
+   author = {Kang, N. and Afzal, Z. and Singh, B. and van Mulligen, E. M. and Kors, J. A.},
+   title = {Using an ensemble system to improve concept extraction from clinical records},
+   journal = {J Biomed Inform},
+   volume = {45},
+   number = {3},
+   pages = {423-8},
+   year = {2012}
+}
+
+@article{
+   author = {Keiser, M. J. and Setola, V. and Irwin, J. J. and Laggner, C. and Abbas, A. I. and Hufeisen, S. J. and Jensen, N. H. and Kuijer, M. B. and Matos, R. C. and Tran, T. B. and Whaley, R. and Glennon, R. A. and Hert, J. and Thomas, K. L. and Edwards, D. D. and Shoichet, B. K. and Roth, B. L.},
+   title = {Predicting new molecular targets for known drugs},
+   journal = {Nature},
+   volume = {462},
+   number = {7270},
+   pages = {175-81},
+   year = {2009}
+}
+
+@article{
+   author = {Kimland, E. and Odlind, V.},
+   title = {Off-label drug use in pediatric patients},
+   journal = {Clin Pharmacol Ther},
+   volume = {91},
+   number = {5},
+   pages = {796-801},
+   year = {2012}
+}
+
+@article{
+   author = {Knaus, W. A. and Wagner, D. P. and Draper, E. A. and Zimmerman, J. E. and Bergner, M. and Bastos, P. G. and Sirio, C. A. and Murphy, D. J. and Lotring, T. and Damiano, A. and et al.},
+   title = {The APACHE III prognostic system. Risk prediction of hospital mortality for critically ill hospitalized adults},
+   journal = {Chest},
+   volume = {100},
+   number = {6},
+   pages = {1619-36},
+   year = {1991}
+}
+
+@article{
+   author = {Knox, C. and Law, V. and Jewison, T. and Liu, P. and Ly, S. and Frolkis, A. and Pon, A. and Banco, K. and Mak, C. and Neveu, V. and Djoumbou, Y. and Eisner, R. and Guo, A. C. and Wishart, D. S.},
+   title = {DrugBank 3.0: a comprehensive resource for 'omics' research on drugs},
+   journal = {Nucleic Acids Res},
+   volume = {39},
+   number = {Database issue},
+   pages = {D1035-41},
+   year = {2011}
+}
+
+
+@article{
+   author = {Krumholz, H. M. and Amatruda, J. and Smith, G. L. and Mattera, J. A. and Roumanis, S. A. and Radford, M. J. and Crombie, P. and Vaccarino, V.},
+   title = {Randomized trial of an education and support intervention to prevent readmission of patients with heart failure},
+   journal = {J Am Coll Cardiol},
+   volume = {39},
+   number = {1},
+   pages = {83-9},
+   year = {2002}
+}
+
+@article{
+   author = {Kuhn, B. A. and Coulter, S. J.},
+   title = {Balancing the pressure ulcer cost and quality equation},
+   journal = {Nurs Econ},
+   volume = {10},
+   number = {5},
+   pages = {353-9},
+   year = {1992}
+}
+
+@article{
+   author = {Kurd, S. K. and Hoffstad, O. J. and Bilker, W. B. and Margolis, D. J.},
+   title = {Evaluation of the use of prognostic information for the care of individuals with venous leg ulcers or diabetic neuropathic foot ulcers},
+   journal = {Wound Repair Regen},
+   volume = {17},
+   number = {3},
+   pages = {318-25},
+   year = {2009}
+}
+
+@article{
+   author = {Lamb, J. and Crawford, E. D. and Peck, D. and Modell, J. W. and Blat, I. C. and Wrobel, M. J. and Lerner, J. and Brunet, J. P. and Subramanian, A. and Ross, K. N. and Reich, M. and Hieronymus, H. and Wei, G. and Armstrong, S. A. and Haggarty, S. J. and Clemons, P. A. and Wei, R. and Carr, S. A. and Lander, E. S. and Golub, T. R.},
+   title = {The Connectivity Map: using gene-expression signatures to connect small molecules, genes, and disease},
+   journal = {Science},
+   volume = {313},
+   number = {5795},
+   pages = {1929-35},
+   year = {2006}
+}
+
+
+@article{
+   author = {Lampl, C. and Katsarava, Z. and Diener, H. C. and Limmroth, V.},
+   title = {Lamotrigine reduces migraine aura and migraine attacks in patients with migraine with aura},
+   journal = {J Neurol Neurosurg Psychiatry},
+   volume = {76},
+   number = {12},
+   pages = {1730-2},
+   year = {2005}
+}
+
+@article{
+   author = {Lavery, L. A. and Boulton, A. J. and Niezgoda, J. A. and Sheehan, P.},
+   title = {A comparison of diabetic foot ulcer outcomes using negative pressure wound therapy versus historical standard of care},
+   journal = {Int Wound J},
+   volume = {4},
+   number = {2},
+   pages = {103-13},
+   year = {2007}
+}
+
+@article{
+   author = {Lazarou, J. and Pomeranz, B. H. and Corey, P. N.},
+   title = {Incidence of adverse drug reactions in hospitalized patients: a meta-analysis of prospective studies},
+   journal = {JAMA},
+   volume = {279},
+   number = {15},
+   pages = {1200-5},
+   year = {1998}
+}
+
+@article{
+   author = {Lazarus, G. S. and Cooper, D. M. and Knighton, D. R. and Percoraro, R. E. and Rodeheaver, G. and Robson, M. C.},
+   title = {Definitions and guidelines for assessment of wounds and evaluation of healing},
+   journal = {Wound Repair Regen},
+   volume = {2},
+   number = {3},
+   pages = {165-70},
+   year = {1994}
+}
+
+@article{
+   author = {Lee, B. K. and Lessler, J. and Stuart, E. A.},
+   title = {Improving propensity score weighting using machine learning},
+   journal = {Stat Med},
+   volume = {29},
+   number = {3},
+   pages = {337-46},
+   year = {2010}
+}
+
+
+@article{
+   author = {Leeper, N. J. and Bauer-Mehren, A. and Iyer, S. V. and Lependu, P. and Olson, C. and Shah, N. H.},
+   title = {Practice-based evidence: profiling the safety of cilostazol by text-mining of clinical notes},
+   journal = {PLoS One},
+   volume = {8},
+   number = {5},
+   pages = {e63499},
+   year = {2013}
+}
+
+@article{
+   author = {Lependu, P. and Iyer, S. V. and Bauer-Mehren, A. and Harpaz, R. and Mortensen, J. M. and Podchiyska, T. and Ferris, T. A. and Shah, N. H.},
+   title = {Pharmacovigilance Using Clinical Notes},
+   journal = {Clin Pharmacol Ther},
+   year = {2013}
+}
+
+@article{
+   author = {Lependu, P. and Iyer, S. V. and Fairon, C. and Shah, N. H.},
+   title = {Annotation Analysis for Testing Drug Safety Signals using Unstructured Clinical Notes},
+   journal = {J Biomed Semantics},
+   volume = {3 Suppl 1},
+   pages = {S5},
+   year = {2012}
+}
+
+@article{
+   author = {Lependu, P. and Liu, Y. and Iyer, S. and Udell, M. R. and Shah, N. H.},
+   title = {Analyzing patterns of drug use in clinical notes for patient safety},
+   journal = {AMIA Summits Transl Sci Proc},
+   volume = {2012},
+   pages = {63-70},
+   year = {2012}
+}
+
+@article{
+   author = {Li, J. and Delgado, M. R. and Phelps, E. A.},
+   title = {How instructed knowledge modulates the neural systems of reward learning},
+   journal = {Proc Natl Acad Sci U S A},
+   volume = {108},
+   number = {1},
+   pages = {55-60},
+   year = {2011}
+}
+
+@article{
+   author = {Li, J. and Lu, Z.},
+   title = {Systematic identification of pharmacogenomics information from clinical trials},
+   journal = {J Biomed Inform},
+   volume = {45},
+   number = {5},
+   pages = {870-8},
+   year = {2012}
+}
+
+@article{
+   author = {Li, Y. and Salmasian, H. and Harpaz, R. and Chase, H. and Friedman, C.},
+   title = {Determining the reasons for medication prescriptions in the EHR using knowledge and natural language processing},
+   journal = {AMIA Annu Symp Proc},
+   volume = {2011},
+   pages = {768-76},
+   year = {2011}
+}
+
+@article{
+   author = {Liaw, Andy and Wiener, Matthew},
+   title = {Classification and Regression by randomForest},
+   journal = {R News},
+   volume = {2},
+   number = {3},
+   pages = {18-22},
+   year = {2002}
+}
+
+
+@article{
+   author = {Lipton, A. and Fizazi, K. and Stopeck, A. T. and Henry, D. H. and Brown, J. E. and Yardley, D. A. and Richardson, G. E. and Siena, S. and Maroto, P. and Clemens, M. and Bilynskyy, B. and Charu, V. and Beuzeboc, P. and Rader, M. and Viniegra, M. and Saad, F. and Ke, C. and Braun, A. and Jun, S.},
+   title = {Superiority of denosumab to zoledronic acid for prevention of skeletal-related events: a combined analysis of 3 pivotal, randomised, phase 3 trials},
+   journal = {Eur J Cancer},
+   volume = {48},
+   number = {16},
+   pages = {3082-92},
+   year = {2012}
+}
+
+
+@article{
+   author = {Liu, M. and McPeek Hinz, E. R. and Matheny, M. E. and Denny, J. C. and Schildcrout, J. S. and Miller, R. A. and Xu, H.},
+   title = {Comparative analysis of pharmacovigilance methods in the detection of adverse drug reactions using electronic medical records},
+   journal = {J Am Med Inform Assoc},
+   volume = {20},
+   number = {3},
+   pages = {420-6},
+   year = {2013}
+}
+
+@article{
+   author = {Liu, Y. and Coulet, A. and Lependu, P. and Shah, N. H.},
+   title = {Using ontology-based annotation to profile disease research},
+   journal = {J Am Med Inform Assoc},
+   volume = {19},
+   number = {e1},
+   pages = {e177-e186},
+   year = {2012}
+}
+
+@article{
+   author = {Liu, Y. and Lependu, P. and Iyer, S. and Shah, N. H.},
+   title = {Using temporal patterns in medical records to discern adverse drug events from indications},
+   journal = {AMIA Summits Transl Sci Proc},
+   volume = {2012},
+   pages = {47-56},
+   year = {2012}
+}
+
+@article{
+   author = {Lounkine, E. and Keiser, M. J. and Whitebread, S. and Mikhailov, D. and Hamon, J. and Jenkins, J. L. and Lavan, P. and Weber, E. and Doak, A. K. and Cote, S. and Shoichet, B. K. and Urban, L.},
+   title = {Large-scale prediction and testing of drug activity on side-effect targets},
+   journal = {Nature},
+   volume = {486},
+   number = {7403},
+   pages = {361-7},
+   year = {2012}
+}
+
+@article{
+   author = {Lowe, H. J. and Ferris, T. A. and Hernandez, P. M. and Weber, S. C.},
+   title = {STRIDE--An integrated standards-based translational research informatics platform},
+   journal = {AMIA Annu Symp Proc},
+   volume = {2009},
+   pages = {391-5},
+   year = {2009}
+}
+
+@article{
+   author = {Lyalina, S. and Percha, B. and LePendu, P. and Iyer, S. V. and Altman, R. B. and Shah, N. H.},
+   title = {Identifying phenotypic signatures of neuropsychiatric disorders from electronic medical records},
+   journal = {J Am Med Inform Assoc},
+   volume = {20},
+   number = {e2},
+   pages = {e297-305},
+   year = {2013}
+}
+
+@article{
+   author = {Maathuis, M. H. and Colombo, D. and Kalisch, M. and Buhlmann, P.},
+   title = {Predicting causal effects in large-scale systems from observational data},
+   journal = {Nat Methods},
+   volume = {7},
+   number = {4},
+   pages = {247-8},
+   year = {2010}
+}
+
+@article{
+   author = {Maathuis, M. H. and Hudgens, M. G.},
+   title = {Nonparametric inference for competing risks current status data with continuous, discrete or grouped observation times},
+   journal = {Biometrika},
+   volume = {98},
+   number = {2},
+   pages = {325-340},
+   year = {2011}
+}
+
+@article{
+   author = {Maathuis, Marloes H. and Kalisch, Markus and Bühlmann, Peter},
+   title = {Estimating high-dimensional intervention effects from observational data},
+   journal = {The Annals of Statistics},
+   volume = {37},
+   number = {6A},
+   pages = {3133-3164},
+   year = {2009}
+}
+
+@article{
+   author = {Mabroukeh, Nizar R. and Ezeife, C. I.},
+   title = {A taxonomy of sequential pattern mining algorithms},
+   journal = {ACM Computing Surveys},
+   volume = {43},
+   number = {1},
+   pages = {1-41},
+   year = {2010}
+}
+
+@article{
+   author = {Madigan, E. A.},
+   title = {Comparison of home health care outcomes and service use for patients with wound/skin diagnoses},
+   journal = {Outcomes Manag Nurs Pract},
+   volume = {5},
+   number = {2},
+   pages = {63-7; quiz 68-9},
+   year = {2001}
+}
+
+
+@article{
+   author = {Margolis, D. J.},
+   title = {The swings and roundabouts of randomized controlled studies in wound healing},
+   journal = {Int J Low Extrem Wounds},
+   volume = {3},
+   number = {1},
+   pages = {4-6},
+   year = {2004}
+}
+
+@article{
+   author = {Margolis, D. J. and Allen-Taylor, L. and Hoffstad, O. and Berlin, J. A.},
+   title = {Diabetic neuropathic foot ulcers: the association of wound size, wound duration, and wound grade on healing},
+   journal = {Diabetes Care},
+   volume = {25},
+   number = {10},
+   pages = {1835-9},
+   year = {2002}
+}
+
+
+@article{
+   author = {Margolis, D. J. and Allen-Taylor, L. and Hoffstad, O. and Berlin, J. A.},
+   title = {Diabetic neuropathic foot ulcers: predicting which ones will not heal},
+   journal = {Am J Med},
+   volume = {115},
+   number = {8},
+   pages = {627-31},
+   year = {2003}
+}
+
+@article{
+   author = {Margolis, D. J. and Allen-Taylor, L. and Hoffstad, O. and Berlin, J. A.},
+   title = {The accuracy of venous leg ulcer prognostic models in a wound care system},
+   journal = {Wound Repair Regen},
+   volume = {12},
+   number = {2},
+   pages = {163-8},
+   year = {2004}
+}
+
+@article{
+   author = {Margolis, D. J. and Berlin, J. A. and Strom, B. L.},
+   title = {Risk factors associated with the failure of a venous leg ulcer to heal},
+   journal = {Arch Dermatol},
+   volume = {135},
+   number = {8},
+   pages = {920-6},
+   year = {1999}
+}
+
+@article{
+   author = {Margolis, D. J. and Bilker, W. and Boston, R. and Localio, R. and Berlin, J. A.},
+   title = {Statistical characteristics of area under the receiver operating characteristic curve for a simple prognostic model using traditional and bootstrapped approaches},
+   journal = {J Clin Epidemiol},
+   volume = {55},
+   number = {5},
+   pages = {518-24},
+   year = {2002}
+}
+@article{
+   author = {Martin, D. F. and Maguire, M. G. and Ying, G. S. and Grunwald, J. E. and Fine, S. L. and Jaffe, G. J.},
+   title = {Ranibizumab and bevacizumab for neovascular age-related macular degeneration},
+   journal = {N Engl J Med},
+   volume = {364},
+   number = {20},
+   pages = {1897-908},
+   year = {2011}
+}
+
+@article{
+   author = {Mattison, J. A. and Roth, G. S. and Beasley, T. M. and Tilmont, E. M. and Handy, A. M. and Herbert, R. L. and Longo, D. L. and Allison, D. B. and Young, J. E. and Bryant, M. and Barnard, D. and Ward, W. F. and Qi, W. and Ingram, D. K. and de Cabo, R.},
+   title = {Impact of caloric restriction on health and survival in rhesus monkeys from the NIA study},
+   journal = {Nature},
+   volume = {489},
+   number = {7415},
+   pages = {318-21},
+   year = {2012}
+}
+
+@article{
+   author = {McAlister, F. A. and Stewart, S. and Ferrua, S. and McMurray, J. J.},
+   title = {Multidisciplinary strategies for the management of heart failure patients at high risk for admission: a systematic review of randomized trials},
+   journal = {J Am Coll Cardiol},
+   volume = {44},
+   number = {4},
+   pages = {810-9},
+   year = {2004}
+}
+
+@article{
+   author = {McIsaac, C.},
+   title = {Managing wound care outcomes},
+   journal = {Ostomy Wound Manage},
+   volume = {51},
+   number = {4},
+   pages = {54-6, 58, 59 passim},
+   year = {2005}
+}
+
+@article{
+   author = {Meinshausen, Nicolai and Maathuis, Marloes H. and Bühlmann, Peter},
+   title = {Asymptotic optimality of the Westfall–Young permutation procedure for multiple testing under dependence},
+   journal = {The Annals of Statistics},
+   volume = {39},
+   number = {6},
+   pages = {3369-3391},
+   year = {2011}
+}
+
+@article{
+   author = {Melling, A. C. and Leaper, D. J.},
+   title = {The impact of warming on pain and wound healing after hernia surgery: a preliminary study},
+   journal = {J Wound Care},
+   volume = {15},
+   number = {3},
+   pages = {104-8},
+   year = {2006}
+}
+
+@article{
+   author = {Meltzer, D. O. and Hoomans, T. and Chung, J. W. and Basu, A.},
+   title = {Minimal modeling approaches to value of information analysis for health research},
+   journal = {Med Decis Making},
+   volume = {31},
+   number = {6},
+   pages = {E1-E22},
+   year = {2011}
+}
+
+@article{
+   author = {Merrill, J. T. and Burgos-Vargas, R. and Westhovens, R. and Chalmers, A. and D'Cruz, D. and Wallace, D. J. and Bae, S. C. and Sigal, L. and Becker, J. C. and Kelly, S. and Raghupathi, K. and Li, T. and Peng, Y. and Kinaszczuk, M. and Nash, P.},
+   title = {The efficacy and safety of abatacept in patients with non-life-threatening manifestations of systemic lupus erythematosus: results of a twelve-month, multicenter, exploratory, phase IIb, randomized, double-blind, placebo-controlled trial},
+   journal = {Arthritis Rheum},
+   volume = {62},
+   number = {10},
+   pages = {3077-87},
+   year = {2010}
+}
+
+@article{
+   author = {Merrill, J. T. and Neuwelt, C. M. and Wallace, D. J. and Shanahan, J. C. and Latinis, K. M. and Oates, J. C. and Utset, T. O. and Gordon, C. and Isenberg, D. A. and Hsieh, H. J. and Zhang, D. and Brunetta, P. G.},
+   title = {Efficacy and safety of rituximab in moderately-to-severely active systemic lupus erythematosus: the randomized, double-blind, phase II/III systemic lupus erythematosus evaluation of rituximab trial},
+   journal = {Arthritis Rheum},
+   volume = {62},
+   number = {1},
+   pages = {222-33},
+   year = {2010}
+}
+
+@article{
+   author = {Meyer, U. A.},
+   title = {Personalized medicine: a personal view},
+   journal = {Clin Pharmacol Ther},
+   volume = {91},
+   number = {3},
+   pages = {373-5},
+   year = {2012}
+}
+
+@article{
+   author = {Meystre, S. M. and Friedlin, F. J. and South, B. R. and Shen, S. and Samore, M. H.},
+   title = {Automatic de-identification of textual documents in the electronic health record: a review of recent research},
+   journal = {BMC Med Res Methodol},
+   volume = {10},
+   pages = {70},
+   year = {2010}
+}
+
+@article{
+   author = {Meystre, S. M. and Haug, P. J.},
+   title = {Randomized controlled trial of an automated problem list with improved sensitivity},
+   journal = {Int J Med Inform},
+   volume = {77},
+   number = {9},
+   pages = {602-12},
+   year = {2008}
+}
+
+@article{
+   author = {Meystre, S. M. and Savova, G. K. and Kipper-Schuler, K. C. and Hurdle, J. F.},
+   title = {Extracting information from textual documents in the electronic health record: a review of recent research},
+   journal = {Yearb Med Inform},
+   pages = {128-44},
+   year = {2008}
+}
+
+
+@article{
+   author = {Minard, A. L. and Ligozat, A. L. and Ben Abacha, A. and Bernhard, D. and Cartoni, B. and Deleger, L. and Grau, B. and Rosset, S. and Zweigenbaum, P. and Grouin, C.},
+   title = {Hybrid methods for improving information access in clinical documents: concept, assertion, and relation identification},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {588-93},
+   year = {2011}
+}
+
+@article{
+   author = {Morris, J.},
+   title = {The use of observational health-care data to identify and report on off-label use of biopharmaceutical products},
+   journal = {Clin Pharmacol Ther},
+   volume = {91},
+   number = {5},
+   pages = {937-42},
+   year = {2012}
+}
+
+@article{
+   author = {Motta, G. J. and Thimsen-Whitaker, K. and Demoor, M. A.},
+   title = {Documenting outcomes of wound care},
+   journal = {Contin Care},
+   volume = {14},
+   number = {8},
+   pages = {16-7, 19},
+   year = {1995}
+}
+
+@article{
+   author = {Murdoch, T. B. and Detsky, A. S.},
+   title = {The inevitable application of big data to health care},
+   journal = {JAMA},
+   volume = {309},
+   number = {13},
+   pages = {1351-2},
+   year = {2013}
+}
+
+@article{
+   author = {Murff, H. J. and FitzHenry, F. and Matheny, M. E. and Gentry, N. and Kotter, K. L. and Crimin, K. and Dittus, R. S. and Rosen, A. K. and Elkin, P. L. and Brown, S. H. and Speroff, T.},
+   title = {Automated identification of postoperative complications within an electronic medical record using natural language processing},
+   journal = {JAMA},
+   volume = {306},
+   number = {8},
+   pages = {848-55},
+   year = {2011}
+}
+
+@article{
+   author = {Nadkarni, P. M.},
+   title = {Drug safety surveillance using de-identified EMR and claims data: issues and challenges},
+   journal = {J Am Med Inform Assoc},
+   volume = {17},
+   number = {6},
+   pages = {671-4},
+   year = {2010}
+}
+
+@article{
+   author = {Nadkarni, P. M. and Darer, J. D.},
+   title = {Determining correspondences between high-frequency MedDRA concepts and SNOMED: a case study},
+   journal = {BMC Med Inform Decis Mak},
+   volume = {10},
+   pages = {66},
+   year = {2010}
+}
+
+@article{
+   author = {Nadkarni, P. M. and Ohno-Machado, L. and Chapman, W. W.},
+   title = {Natural language processing: an introduction},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {544-51},
+   year = {2011}
+}
+
+@article{
+   author = {Nam, H. and Lewis, N. E. and Lerman, J. A. and Lee, D. H. and Chang, R. L. and Kim, D. and Palsson, B. O.},
+   title = {Network context and selection in the evolution to enzyme specificity},
+   journal = {Science},
+   volume = {337},
+   number = {6098},
+   pages = {1101-4},
+   year = {2012}
+}
+
+@article{
+   author = {Nelson, S. J. and Zeng, K. and Kilbourne, J. and Powell, T. and Moore, R.},
+   title = {Normalized names for clinical drugs: RxNorm at 6 years},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {4},
+   pages = {441-8},
+   year = {2011}
+}
+
+@article{
+   author = {Neph, S. and Vierstra, J. and Stergachis, A. B. and Reynolds, A. P. and Haugen, E. and Vernot, B. and Thurman, R. E. and John, S. and Sandstrom, R. and Johnson, A. K. and Maurano, M. T. and Humbert, R. and Rynes, E. and Wang, H. and Vong, S. and Lee, K. and Bates, D. and Diegel, M. and Roach, V. and Dunn, D. and Neri, J. and Schafer, A. and Hansen, R. S. and Kutyavin, T. and Giste, E. and Weaver, M. and Canfield, T. and Sabo, P. and Zhang, M. and Balasundaram, G. and Byron, R. and MacCoss, M. J. and Akey, J. M. and Bender, M. A. and Groudine, M. and Kaul, R. and Stamatoyannopoulos, J. A.},
+   title = {An expansive human regulatory lexicon encoded in transcription factor footprints},
+   journal = {Nature},
+   volume = {489},
+   number = {7414},
+   pages = {83-90},
+   year = {2012}
+}
+
+@article{
+   author = {Noren, G. N. and Hopstadius, J. and Bate, A.},
+   title = {Shrinkage observed-to-expected ratios for robust and transparent large-scale pattern discovery},
+   journal = {Stat Methods Med Res},
+   year = {2011}
+}
+
+
+@article{
+   author = {Noren, G. N. and Hopstadius, J. and Bate, A. and Edwards, I. R.},
+   title = {Safety surveillance of longitudinal databases: methodological considerations},
+   journal = {Pharmacoepidemiol Drug Saf},
+   volume = {20},
+   number = {7},
+   pages = {714-7},
+   year = {2011}
+}
+
+
+@article{
+   author = {Norén, G. Niklas and Hopstadius, Johan and Bate, Andrew and Star, Kristina and Edwards, I. Ralph},
+   title = {Temporal pattern discovery in longitudinal electronic patient records},
+   journal = {Data Mining and Knowledge Discovery},
+   volume = {20},
+   number = {3},
+   pages = {361-387},
+   year = {2009}
+}
+
+@article{
+   author = {Noren, G. N. and Sundberg, R. and Bate, A. and Edwards, I. R.},
+   title = {A statistical methodology for drug-drug interaction surveillance},
+   journal = {Stat Med},
+   volume = {27},
+   number = {16},
+   pages = {3057-70},
+   year = {2008}
+}
+
+@article{
+   author = {Noy, N. F. and Shah, N. H. and Whetzel, P. L. and Dai, B. and Dorf, M. and Griffith, N. and Jonquet, C. and Rubin, D. L. and Storey, M. A. and Chute, C. G. and Musen, M. A.},
+   title = {BioPortal: ontologies and integrated data resources at the click of a mouse},
+   journal = {Nucleic Acids Res},
+   volume = {37},
+   number = {Web Server issue},
+   pages = {W170-3},
+   year = {2009}
+}
+
+@article{
+   author = {Ohno-Machado, L.},
+   title = {Realizing the full potential of electronic health records: the role of natural language processing},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {539},
+   year = {2011}
+}
+
+@article{
+   author = {Ohno-Machado, L.},
+   title = {Realizing the full potential of electronic health records: the role of natural language processing},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {539},
+   year = {2011}
+}
+
+@article{
+   author = {Pathak, J. and Bailey, K. R. and Beebe, C. E. and Bethard, S. and Carrell, D. C. and Chen, P. J. and Dligach, D. and Endle, C. M. and Hart, L. A. and Haug, P. J. and Huff, S. M. and Kaggal, V. C. and Li, D. and Liu, H. and Marchant, K. and Masanz, J. and Miller, T. and Oniki, T. A. and Palmer, M. and Peterson, K. J. and Rea, S. and Savova, G. K. and Stancl, C. R. and Sohn, S. and Solbrig, H. R. and Suesse, D. B. and Tao, C. and Taylor, D. P. and Westberg, L. and Wu, S. and Zhuo, N. and Chute, C. G.},
+   title = {Normalization and standardization of electronic health records for high-throughput phenotyping: the SHARPn consortium},
+   journal = {J Am Med Inform Assoc},
+   volume = {20},
+   number = {e2},
+   pages = {e341-8},
+   year = {2013}
+}
+
+@article{
+   author = {Pathak, J. and Chute, C. G.},
+   title = {Analyzing categorical information in two publicly available drug terminologies: RxNorm and NDF-RT},
+   journal = {J Am Med Inform Assoc},
+   volume = {17},
+   number = {4},
+   pages = {432-9},
+   year = {2010}
+}
+
+@article{
+   author = {Pathak, J. and Kho, A. N. and Denny, J. C.},
+   title = {Electronic health records-driven phenotyping: challenges, recent advances, and perspectives},
+   journal = {J Am Med Inform Assoc},
+   volume = {20},
+   number = {e2},
+   pages = {e206-11},
+   year = {2013}
+}
+
+@article{
+   author = {Pathak, J. and Pan, H. and Wang, J. and Kashyap, S. and Schad, P. A. and Hamilton, C. M. and Masys, D. R. and Chute, C. G.},
+   title = {Evaluating Phenotypic Data Elements for Genetics and Epidemiological Research: Experiences from the eMERGE and PhenX Network Projects},
+   journal = {AMIA Summits Transl Sci Proc},
+   volume = {2011},
+   pages = {41-5},
+   year = {2011}
+}
+
+@article{
+   author = {Pathak, J. and Wang, J. and Kashyap, S. and Basford, M. and Li, R. and Masys, D. R. and Chute, C. G.},
+   title = {Mapping clinical phenotype data elements to standardized metadata repositories and controlled terminologies: the eMERGE Network experience},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {4},
+   pages = {376-86},
+   year = {2011}
+}
+
+@article{
+   author = {Patrick, J. and Li, M.},
+   title = {High accuracy information extraction of medication information from clinical notes: 2009 i2b2 medication extraction challenge},
+   journal = {J Am Med Inform Assoc},
+   volume = {17},
+   number = {5},
+   pages = {524-7},
+   year = {2010}
+}
+
+@article{
+   author = {Patrick, J. D. and Nguyen, D. H. and Wang, Y. and Li, M.},
+   title = {A knowledge discovery and reuse pipeline for information extraction in clinical notes},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {574-9},
+   year = {2011}
+}
+
+@article{
+   author = {Pauker, S. G. and Goss, F. R.},
+   title = {Using models to predict the future: what to do when the data run out?},
+   journal = {Clin Pharmacol Ther},
+   volume = {91},
+   number = {5},
+   pages = {769-71},
+   year = {2012}
+}
+
+@article{
+   author = {Paxton C, Niculescu-Mizil A, Saria S},
+   title = {Developing predictive models using electronic medical records: challenges and pitfalls},
+   journal = {AMIA Annu Symp Proc},
+   volume = {2013},
+   pages = {1109-15},
+   year = {2013}
+}
+
+@article{
+   author = {Pearson, T. A. and Peters, T. D.},
+   title = {The treatment gap in coronary artery disease and heart failure: community standards and the post-discharge patient},
+   journal = {Am J Cardiol},
+   volume = {80},
+   number = {8B},
+   pages = {45H-52H},
+   year = {1997}
+}
+
+@article{
+   author = {Pedersen, T. and Pakhomov, S. V. and Patwardhan, S. and Chute, C. G.},
+   title = {Measures of semantic similarity and relatedness in the biomedical domain},
+   journal = {J Biomed Inform},
+   volume = {40},
+   number = {3},
+   pages = {288-99},
+   year = {2007}
+}
+
+@article{
+   author = {Perren, T. J. and Swart, A. M. and Pfisterer, J. and Ledermann, J. A. and Pujade-Lauraine, E. and Kristensen, G. and Carey, M. S. and Beale, P. and Cervantes, A. and Kurzeder, C. and du Bois, A. and Sehouli, J. and Kimmig, R. and Stahle, A. and Collinson, F. and Essapen, S. and Gourley, C. and Lortholary, A. and Selle, F. and Mirza, M. R. and Leminen, A. and Plante, M. and Stark, D. and Qian, W. and Parmar, M. K. and Oza, A. M. and Investigators, Icon},
+   title = {A phase 3 trial of bevacizumab in ovarian cancer},
+   journal = {N Engl J Med},
+   volume = {365},
+   number = {26},
+   pages = {2484-96},
+   year = {2011}
+}
+
+@article{
+   author = {Pizzolato, R. and Villani, V. and Prosperini, L. and Ciuffoli, A. and Sette, G.},
+   title = {Efficacy and tolerability of pregabalin as preventive treatment for migraine: a 3-month follow-up study},
+   journal = {J Headache Pain},
+   volume = {12},
+   number = {5},
+   pages = {521-5},
+   year = {2011}
+}
+
+@article{
+   author = {Platt, John},
+   title = {Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods},
+   journal = {Advances In Large Margin Classifiers},
+   pages = {61-74},
+   year = {1999}
+}
+
+@article{
+   author = {Platt, R. and Carnahan, R. M. and Brown, J. S. and Chrischilles, E. and Curtis, L. H. and Hennessy, S. and Nelson, J. C. and Racoosin, J. A. and Robb, M. and Schneeweiss, S. and Toh, S. and Weiner, M. G.},
+   title = {The U.S. Food and Drug Administration's Mini-Sentinel program: status and direction},
+   journal = {Pharmacoepidemiol Drug Saf},
+   volume = {21 Suppl 1},
+   pages = {1-8},
+   year = {2012}
+}
+
+@article{
+   author = {Poissant, L. and Taylor, L. and Huang, A. and Tamblyn, R.},
+   title = {Assessing the accuracy of an inter-institutional automated patient-specific health problem list},
+   journal = {BMC Med Inform Decis Mak},
+   volume = {10},
+   pages = {10},
+   year = {2010}
+}
+
+@article{
+   author = {Poole, S. G. and Dooley, M. J.},
+   title = {Off-label prescribing in oncology},
+   journal = {Support Care Cancer},
+   volume = {12},
+   number = {5},
+   pages = {302-5},
+   year = {2004}
+}
+
+@article{
+   author = {Post, A. R. and Harrison, J. H., Jr.},
+   title = {PROTEMPA: a method for specifying and identifying temporal sequences in retrospective data for patient selection},
+   journal = {J Am Med Inform Assoc},
+   volume = {14},
+   number = {5},
+   pages = {674-83},
+   year = {2007}
+}
+
+@article{
+   author = {Post, A. R. and Harrison, J. H., Jr.},
+   title = {Temporal data mining},
+   journal = {Clin Lab Med},
+   volume = {28},
+   number = {1},
+   pages = {83-100, vii},
+   year = {2008}
+}
+
+@article{
+   author = {Radley, D. C. and Finkelstein, S. N. and Stafford, R. S.},
+   title = {Off-label prescribing among office-based physicians},
+   journal = {Arch Intern Med},
+   volume = {166},
+   number = {9},
+   pages = {1021-6},
+   year = {2006}
+}
+
+@article{
+   author = {Rassen, J. A. and Glynn, R. J. and Brookhart, M. A. and Schneeweiss, S.},
+   title = {Covariate selection in high-dimensional propensity score analyses of treatment effects in small samples},
+   journal = {Am J Epidemiol},
+   volume = {173},
+   number = {12},
+   pages = {1404-13},
+   year = {2011}
+}
+
+@article{
+   author = {Rassen, J. A. and Schneeweiss, S.},
+   title = {Using high-dimensional propensity scores to automate confounding control in a distributed medical product safety surveillance system},
+   journal = {Pharmacoepidemiol Drug Saf},
+   volume = {21 Suppl 1},
+   pages = {41-9},
+   year = {2012}
+}
+
+@article{
+   author = {Ray, W. A.},
+   title = {Evaluating Medication Effects Outside of Clinical Trials: New-User Designs},
+   journal = {American Journal of Epidemiology},
+   volume = {158},
+   number = {9},
+   pages = {915-920},
+   year = {2003}
+}
+
+@article{
+   author = {Reis, B. Y. and Kohane, I. S. and Mandl, K. D.},
+   title = {Longitudinal histories as predictors of future diagnoses of domestic abuse: modelling study},
+   journal = {Bmj},
+   volume = {339},
+   number = {sep29 1},
+   pages = {b3677-b3677},
+   year = {2009}
+}
+
+@article{
+   author = {Reisinger, S. J. and Ryan, P. B. and O'Hara, D. J. and Powell, G. E. and Painter, J. L. and Pattishall, E. N. and Morris, J. A.},
+   title = {Development and evaluation of a common data model enabling active drug safety surveillance using disparate healthcare databases},
+   journal = {J Am Med Inform Assoc},
+   volume = {17},
+   number = {6},
+   pages = {652-62},
+   year = {2010}
+}
+
+@article{
+   author = {Rich, M. W. and Beckham, V. and Wittenberg, C. and Leven, C. L. and Freedland, K. E. and Carney, R. M.},
+   title = {A multidisciplinary intervention to prevent the readmission of elderly patients with congestive heart failure},
+   journal = {N Engl J Med},
+   volume = {333},
+   number = {18},
+   pages = {1190-5},
+   year = {1995}
+}
+
+@article{
+   author = {Rink, B. and Harabagiu, S. and Roberts, K.},
+   title = {Automatic extraction of relations between medical concepts in clinical texts},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {594-600},
+   year = {2011}
+}
+
+@article{
+   author = {Roberts, K. and Harabagiu, S. M.},
+   title = {A flexible framework for deriving assertions from electronic medical records},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {568-73},
+   year = {2011}
+}
+
+@article{
+   author = {Roden, D. M. and Xu, H. and Denny, J. C. and Wilke, R. A.},
+   title = {Electronic medical records as a tool in clinical pharmacology: opportunities and challenges},
+   journal = {Clin Pharmacol Ther},
+   volume = {91},
+   number = {6},
+   pages = {1083-86},
+   year = {2012}
+}
+
+@article{
+   author = {Roque, F. S. and Jensen, P. B. and Schmock, H. and Dalgaard, M. and Andreatta, M. and Hansen, T. and Soeby, K. and Bredkjaer, S. and Juul, A. and Werge, T. and Jensen, L. J. and Brunak, S.},
+   title = {Using electronic patient records to discover disease correlations and stratify patient cohorts},
+   journal = {PLoS Comput Biol},
+   volume = {7},
+   number = {8},
+   pages = {e1002141},
+   year = {2011}
+}
+
+@article{
+   author = {Rosenbloom, S. T. and Denny, J. C. and Xu, H. and Lorenzi, N. and Stead, W. W. and Johnson, K. B.},
+   title = {Data from clinical notes: a perspective on the tension between structure and flexible documentation},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {2},
+   pages = {181-6},
+   year = {2011}
+}
+
+@article{
+   author = {Rubin, D. B.},
+   title = {The design versus the analysis of observational studies for causal effects: parallels with the design of randomized trials},
+   journal = {Stat Med},
+   volume = {26},
+   number = {1},
+   pages = {20-36},
+   year = {2007}
+}
+
+@article{
+   author = {Rubin, D. B.},
+   title = {On the limitations of comparative effectiveness research},
+   journal = {Stat Med},
+   volume = {29},
+   number = {19},
+   pages = {1991-5; discussion 1996-7},
+   year = {2010}
+}
+
+@article{
+   author = {Rubin, D. L. and Shah, N. H. and Noy, N. F.},
+   title = {Biomedical ontologies: a functional perspective},
+   journal = {Brief Bioinform},
+   volume = {9},
+   number = {1},
+   pages = {75-90},
+   year = {2008}
+}
+
+@article{
+   author = {Russu, A. and Marostica, E. and De Nicolao, G. and Hooker, A. C. and Poggesi, I. and Gomeni, R. and Zamuner, S.},
+   title = {Joint modeling of efficacy, dropout, and tolerability in flexible-dose trials: a case study in depression},
+   journal = {Clin Pharmacol Ther},
+   volume = {91},
+   number = {5},
+   pages = {863-71},
+   year = {2012}
+}
+
+
+@article{
+   author = {Ryan, P. B. and Madigan, D. and Stang, P. E. and Overhage, J. M. and Racoosin, J. A. and Hartzema, A. G.},
+   title = {Empirical assessment of methods for risk identification in healthcare data: results from the experiments of the Observational Medical Outcomes Partnership},
+   journal = {Stat Med},
+   volume = {31},
+   number = {30},
+   pages = {4401-15},
+   year = {2012}
+}
+
+@article{
+   author = {Ryan, P. B. and Madigan, D. and Stang, P. E. and Schuemie, M. J. and Hripcsak, G.},
+   title = {Medication-wide association studies},
+   journal = {CPT Pharmacometrics Syst Pharmacol},
+   volume = {2},
+   pages = {e76},
+   year = {2013}
+}
+
+@article{
+   author = {Savova, G. K. and Coden, A. R. and Sominsky, I. L. and Johnson, R. and Ogren, P. V. and de Groen, P. C. and Chute, C. G.},
+   title = {Word sense disambiguation across two domains: biomedical literature and clinical notes},
+   journal = {J Biomed Inform},
+   volume = {41},
+   number = {6},
+   pages = {1088-100},
+   year = {2008}
+}
+
+@article{
+   author = {Savova, G. K. and Masanz, J. J. and Ogren, P. V. and Zheng, J. and Sohn, S. and Kipper-Schuler, K. C. and Chute, C. G.},
+   title = {Mayo clinical Text Analysis and Knowledge Extraction System (cTAKES): architecture, component evaluation and applications},
+   journal = {J Am Med Inform Assoc},
+   volume = {17},
+   number = {5},
+   pages = {507-13},
+   year = {2010}
+}
+
+@article{
+   author = {Schneeweiss, S. and Rassen, J. A. and Glynn, R. J. and Avorn, J. and Mogun, H. and Brookhart, M. A.},
+   title = {High-dimensional propensity score adjustment in studies of treatment effects using health care claims data},
+   journal = {Epidemiology},
+   volume = {20},
+   number = {4},
+   pages = {512-22},
+   year = {2009}
+}
+
+
+@article{
+   author = {Schriml, L. M. and Arze, C. and Nadendla, S. and Chang, Y. W. and Mazaitis, M. and Felix, V. and Feng, G. and Kibbe, W. A.},
+   title = {Disease Ontology: a backbone for disease semantic integration},
+   journal = {Nucleic Acids Res},
+   volume = {40},
+   number = {Database issue},
+   pages = {D940-6},
+   year = {2012}
+}
+
+@article{
+   author = {Schuemie, M. J. and Ryan, P. B. and DuMouchel, W. and Suchard, M. A. and Madigan, D.},
+   title = {Interpreting observational studies: why empirical calibration is needed to correct p-values},
+   journal = {Stat Med},
+   volume = {33},
+   number = {2},
+   pages = {209-18},
+   year = {2014}
+}
+
+@article{
+   author = {Sen, C. K. and Gordillo, G. M. and Roy, S. and Kirsner, R. and Lambert, L. and Hunt, T. K. and Gottrup, F. and Gurtner, G. C. and Longaker, M. T.},
+   title = {Human skin wounds: a major and snowballing threat to public health and the economy},
+   journal = {Wound Repair Regen},
+   volume = {17},
+   number = {6},
+   pages = {763-71},
+   year = {2009}
+}
+
+@article{
+   author = {Serena, T. and Bates-Jensen, B. and Carter, M. J. and Cordrey, R. and Driver, V. and Fife, C. E. and Haser, P. B. and Krasner, D. and Nusgart, M. and Smith, A. P. and Snyder, R. J.},
+   title = {Consensus principles for wound care research obtained using a Delphi process},
+   journal = {Wound Repair Regen},
+   volume = {20},
+   number = {3},
+   pages = {284-93},
+   year = {2012}
+}
+
+@article{
+   author = {Shah, N. H.},
+   title = {Mining the ultimate phenome repository},
+   journal = {Nat Biotechnol},
+   volume = {31},
+   number = {12},
+   pages = {1095-7},
+   year = {2013}
+}
+
+@article{
+   author = {Shah, N. H. and Bhatia, N. and Jonquet, C. and Rubin, D. and Chiang, A. P. and Musen, M. A.},
+   title = {Comparison of concept recognizers for building the Open Biomedical Annotator},
+   journal = {BMC Bioinformatics},
+   volume = {10 Suppl 9},
+   pages = {S14},
+   year = {2009}
+}
+
+@article{
+   author = {Shah, N. H. and Jonquet, C. and Chiang, A. P. and Butte, A. J. and Chen, R. and Musen, M. A.},
+   title = {Ontology-driven indexing of public datasets for translational bioinformatics},
+   journal = {BMC Bioinformatics},
+   volume = {10 Suppl 2},
+   pages = {S1},
+   year = {2009}
+}
+
+
+@article{
+   author = {Shakoor, N. and Michalska, M. and Harris, C. A. and Block, J. A.},
+   title = {Drug-induced systemic lupus erythematosus associated with etanercept therapy},
+   journal = {Lancet},
+   volume = {359},
+   number = {9306},
+   pages = {579-80},
+   year = {2002}
+}
+
+@article{
+   author = {Sharma, S. V. and Haber, D. A. and Settleman, J.},
+   title = {Cell line-based platforms to evaluate the therapeutic efficacy of candidate anticancer agents},
+   journal = {Nat Rev Cancer},
+   volume = {10},
+   number = {4},
+   pages = {241-53},
+   year = {2010}
+}
+
+@article{
+   author = {Sheehan, P.},
+   title = {Early change in wound area as a predictor of healing in diabetic foot ulcers: knowing "when to say when"},
+   journal = {Plast Reconstr Surg},
+   volume = {117},
+   number = {7 Suppl},
+   pages = {245S-247S},
+   year = {2006}
+}
+
+@article{
+   author = {Sheehan, P. and Jones, P. and Giurini, J. M. and Caselli, A. and Veves, A.},
+   title = {Percent change in wound area of diabetic foot ulcers over a 4-week period is a robust predictor of complete healing in a 12-week prospective trial},
+   journal = {Plast Reconstr Surg},
+   volume = {117},
+   number = {7 Suppl},
+   pages = {239S-244S},
+   year = {2006}
+}
+
+@article{
+   author = {Short, D. S.},
+   title = {The jugular venous pulse},
+   journal = {Postgrad Med J},
+   volume = {33},
+   number = {382},
+   pages = {389-94},
+   year = {1957}
+}
+
+@article{
+   author = {Singer, A. J. and Clark, R. A.},
+   title = {Cutaneous wound healing},
+   journal = {N Engl J Med},
+   volume = {341},
+   number = {10},
+   pages = {738-46},
+   year = {1999}
+}
+
+@article{
+   author = {Sinisalo, J. and Rapola, J. and Rossinen, J. and Kupari, M.},
+   title = {Simplifying the estimation of jugular venous pressure},
+   journal = {Am J Cardiol},
+   volume = {100},
+   number = {12},
+   pages = {1779-81},
+   year = {2007}
+}
+
+@article{
+   author = {Sirota, M. and Dudley, J. T. and Kim, J. and Chiang, A. P. and Morgan, A. A. and Sweet-Cordero, A. and Sage, J. and Butte, A. J.},
+   title = {Discovery and preclinical validation of drug indications using compendia of public gene expression data},
+   journal = {Sci Transl Med},
+   volume = {3},
+   number = {96},
+   pages = {96ra77},
+   year = {2011}
+}
+
+@article{
+   author = {Stacey, M. and McGregor, C.},
+   title = {Temporal abstraction in intelligent clinical data analysis: a survey},
+   journal = {Artif Intell Med},
+   volume = {39},
+   number = {1},
+   pages = {1-24},
+   year = {2007}
+}
+
+@article{
+   author = {Stafford, R. S.},
+   title = {Off-label use of drugs and medical devices: a review of policy implications},
+   journal = {Clin Pharmacol Ther},
+   volume = {91},
+   number = {5},
+   pages = {920-5},
+   year = {2012}
+}
+
+@article{
+   author = {Stanfill, M. H. and Williams, M. and Fenton, S. H. and Jenders, R. A. and Hersh, W. R.},
+   title = {A systematic literature review of automated clinical coding and classification systems},
+   journal = {J Am Med Inform Assoc},
+   volume = {17},
+   number = {6},
+   pages = {646-51},
+   year = {2010}
+}
+
+@article{
+   author = {Stefansdottir, G. and Knol, M. J. and Arnardottir, A. H. and van der Elst, M. E. and Grobbee, D. E. and Leufkens, H. G. and De Bruin, M. L.},
+   title = {Safety learning from drugs of the same class: room for improvement},
+   journal = {Clin Pharmacol Ther},
+   volume = {91},
+   number = {5},
+   pages = {872-80},
+   year = {2012}
+}
+
+
+@article{
+   author = {Stephenson, D. B. and Coelho, C. A. S. and Jolliffe, I. T.},
+   title = {Two Extra Components in the Brier Score Decomposition},
+   journal = {Weather and Forecasting},
+   volume = {23},
+   number = {4},
+   pages = {752-757},
+   year = {2008}
+}
+
+@article{
+   author = {Stephenson, W. P. and Hauben, M.},
+   title = {Data mining for signals in spontaneous reporting databases: proceed with caution},
+   journal = {Pharmacoepidemiol Drug Saf},
+   volume = {16},
+   number = {4},
+   pages = {359-65},
+   year = {2007}
+}
+
+@article{
+   author = {Stewart, W. F. and Shah, N. R. and Selna, M. J. and Paulus, R. A. and Walker, J. M.},
+   title = {Bridging the inferential gap: the electronic health record and clinical evidence},
+   journal = {Health Aff (Millwood)},
+   volume = {26},
+   number = {2},
+   pages = {w181-91},
+   year = {2007}
+}
+
+@article{
+   author = {Steyerberg, E. W. and Bleeker, S. E. and Moll, H. A. and Grobbee, D. E. and Moons, K. G.},
+   title = {Internal and external validation of predictive models: a simulation study of bias and precision in small samples},
+   journal = {J Clin Epidemiol},
+   volume = {56},
+   number = {5},
+   pages = {441-7},
+   year = {2003}
+}
+
+@article{
+   author = {Stojadinovic, A. and Carlson, J. W. and Schultz, G. S. and Davis, T. A. and Elster, E. A.},
+   title = {Topical advances in wound care},
+   journal = {Gynecol Oncol},
+   volume = {111},
+   number = {2 Suppl},
+   pages = {S70-80},
+   year = {2008}
+}
+
+@article{
+   author = {Stopeck, A. T. and Lipton, A. and Body, J. J. and Steger, G. G. and Tonkin, K. and de Boer, R. H. and Lichinitser, M. and Fujiwara, Y. and Yardley, D. A. and Viniegra, M. and Fan, M. and Jiang, Q. and Dansey, R. and Jun, S. and Braun, A.},
+   title = {Denosumab compared with zoledronic acid for the treatment of bone metastases in patients with advanced breast cancer: a randomized, double-blind study},
+   journal = {J Clin Oncol},
+   volume = {28},
+   number = {35},
+   pages = {5132-9},
+   year = {2010}
+}
+
+
+@article{
+   author = {Sturkey, E. N. and Linker, S. and Keith, D. D. and Comeau, E.},
+   title = {Improving wound care outcomes in the home setting},
+   journal = {J Nurs Care Qual},
+   volume = {20},
+   number = {4},
+   pages = {349-55},
+   year = {2005}
+}
+
+
+@article{
+   author = {Subramanian, A. and Tamayo, P. and Mootha, V. K. and Mukherjee, S. and Ebert, B. L. and Gillette, M. A. and Paulovich, A. and Pomeroy, S. L. and Golub, T. R. and Lander, E. S. and Mesirov, J. P.},
+   title = {Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles},
+   journal = {Proc Natl Acad Sci U S A},
+   volume = {102},
+   number = {43},
+   pages = {15545-50},
+   year = {2005}
+}
+
+@article{
+   author = {Sussman, C.},
+   title = {Managing wound care. Utilization management ensures optimal clinical outcomes},
+   journal = {Rehab Manag},
+   volume = {11},
+   number = {3},
+   pages = {40-1, 131},
+   year = {1998}
+}
+
+@article{
+   author = {Tallon, R.},
+   title = {Cost-effective wound care: new priorities driven by outcomes},
+   journal = {Adv Wound Care},
+   volume = {8},
+   number = {5},
+   pages = {48},
+   year = {1995}
+}
+
+@article{
+   author = {Tatonetti, N. P. and Ye, P. P. and Daneshjou, R. and Altman, R. B.},
+   title = {Data-driven prediction of drug effects and interactions},
+   journal = {Sci Transl Med},
+   volume = {4},
+   number = {125},
+   pages = {125ra31},
+   year = {2012}
+}
+
+@article{
+   author = {Tektonidou, M. G. and Laskari, K. and Panagiotakos, D. B. and Moutsopoulos, H. M.},
+   title = {Risk factors for thrombosis and primary thrombosis prevention in patients with systemic lupus erythematosus with or without antiphospholipid antibodies},
+   journal = {Arthritis Rheum},
+   volume = {61},
+   number = {1},
+   pages = {29-36},
+   year = {2009}
+}
+
+@article{
+   author = {Torii, M. and Wagholikar, K. and Liu, H.},
+   title = {Using machine learning for concept extraction on clinical documents from multiple data sources},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {580-7},
+   year = {2011}
+}
+
+@article{
+   author = {Trifiro, G. and Pariente, A. and Coloma, P. M. and Kors, J. A. and Polimeni, G. and Miremont-Salame, G. and Catania, M. A. and Salvo, F. and David, A. and Moore, N. and Caputi, A. P. and Sturkenboom, M. and Molokhia, M. and Hippisley-Cox, J. and Acedo, C. D. and van der Lei, J. and Fourrier-Reglat, A.},
+   title = {Data mining on electronic health record databases for signal detection in pharmacovigilance: which events to monitor?},
+   journal = {Pharmacoepidemiol Drug Saf},
+   volume = {18},
+   number = {12},
+   pages = {1176-84},
+   year = {2009}
+}
+
+
+@article{
+   author = {Ubbink, D. T. and Lindeboom, R. and Eskes, A. M. and Brull, H. and Legemate, D. A. and Vermeulen, H.},
+   title = {Predicting complex acute wound healing in patients from a wound expertise centre registry: a prognostic study},
+   journal = {Int Wound J},
+   year = {2013}
+}
+
+@article{
+   author = {Uzuner, O.},
+   title = {Recognizing obesity and comorbidities in sparse data},
+   journal = {J Am Med Inform Assoc},
+   volume = {16},
+   number = {4},
+   pages = {561-70},
+   year = {2009}
+}
+
+@article{
+   author = {Uzuner, O. and Goldstein, I. and Luo, Y. and Kohane, I.},
+   title = {Identifying patient smoking status from medical discharge records},
+   journal = {J Am Med Inform Assoc},
+   volume = {15},
+   number = {1},
+   pages = {14-24},
+   year = {2008}
+}
+
+@article{
+   author = {Uzuner, O. and Solti, I. and Cadag, E.},
+   title = {Extracting medication information from clinical text},
+   journal = {J Am Med Inform Assoc},
+   volume = {17},
+   number = {5},
+   pages = {514-8},
+   year = {2010}
+}
+
+@article{
+   author = {Uzuner, O. and South, B. R. and Shen, S. and DuVall, S. L.},
+   title = {2010 i2b2/VA challenge on concepts, assertions, and relations in clinical text},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {5},
+   pages = {552-6},
+   year = {2011}
+}
+
+@article{
+   author = {Verduijn, M. and Sacchi, L. and Peek, N. and Bellazzi, R. and de Jonge, E. and de Mol, B. A.},
+   title = {Temporal abstraction for feature extraction: a comparative case study in prediction from intensive care monitoring data},
+   journal = {Artif Intell Med},
+   volume = {41},
+   number = {1},
+   pages = {1-12},
+   year = {2007}
+}
+
+@article{
+   author = {Wallach, I. and Jaitly, N. and Lilien, R.},
+   title = {A structure-based approach for mapping adverse drug reactions to the perturbation of underlying biological pathways},
+   journal = {PLoS One},
+   volume = {5},
+   number = {8},
+   pages = {e12063},
+   year = {2010}
+}
+
+@article{
+   author = {Wang, G. and Zhang, Z. and Ayala, C. and Wall, H. K. and Fang, J.},
+   title = {Costs of heart failure-related hospitalizations in patients aged 18 to 64 years},
+   journal = {Am J Manag Care},
+   volume = {16},
+   number = {10},
+   pages = {769-76},
+   year = {2010}
+}
+
+@article{
+   author = {Wang, X. and Hripcsak, G. and Markatou, M. and Friedman, C.},
+   title = {Active computerized pharmacovigilance using natural language processing, statistics, and electronic health records: a feasibility study},
+   journal = {J Am Med Inform Assoc},
+   volume = {16},
+   number = {3},
+   pages = {328-37},
+   year = {2009}
+}
+
+@article{
+   author = {Wang, Y. and Xiao, J. and Suzek, T. O. and Zhang, J. and Wang, J. and Zhou, Z. and Han, L. and Karapetyan, K. and Dracheva, S. and Shoemaker, B. A. and Bolton, E. and Gindulyte, A. and Bryant, S. H.},
+   title = {PubChem's BioAssay Database},
+   journal = {Nucleic Acids Res},
+   volume = {40},
+   number = {Database issue},
+   pages = {D400-12},
+   year = {2012}
+}
+
+@article{
+   author = {Warrer, P. and Hansen, E. H. and Juhl-Jensen, L. and Aagaard, L.},
+   title = {Using text-mining techniques in electronic patient records to identify ADRs from medicine use},
+   journal = {Br J Clin Pharmacol},
+   volume = {73},
+   number = {5},
+   pages = {674-84},
+   year = {2012}
+}
+
+@article{
+   author = {Westreich, D. and Lessler, J. and Funk, M. J.},
+   title = {Propensity score estimation: neural networks, support vector machines, decision trees (CART), and meta-classifiers as alternatives to logistic regression},
+   journal = {J Clin Epidemiol},
+   volume = {63},
+   number = {8},
+   pages = {826-33},
+   year = {2010}
+}
+
+@article{
+   author = {Whetzel, P. L. and Noy, N. F. and Shah, N. H. and Alexander, P. R. and Nyulas, C. and Tudorache, T. and Musen, M. A.},
+   title = {BioPortal: enhanced functionality via new Web services from the National Center for Biomedical Ontology to access and use ontologies in software applications},
+   journal = {Nucleic Acids Res},
+   volume = {39},
+   number = {Web Server issue},
+   pages = {W541-5},
+   year = {2011}
+}
+
+@article{
+   author = {White, R. W. and Harpaz, R. and Shah, N. H. and DuMouchel, W. and Horvitz, E.},
+   title = {Toward enhanced pharmacovigilance using patient-generated data on the internet},
+   journal = {Clin Pharmacol Ther},
+   volume = {96},
+   number = {2},
+   pages = {239-46},
+   year = {2014}
+}
+
+@article{
+   author = {Wicke, C. and Bachinger, A. and Coerper, S. and Beckert, S. and Witte, M. B. and Konigsrainer, A.},
+   title = {Aging influences wound healing in patients with chronic lower extremity wounds treated in a specialized Wound Care Center},
+   journal = {Wound Repair Regen},
+   volume = {17},
+   number = {1},
+   pages = {25-33},
+   year = {2009}
+}
+
+@article{
+   author = {Winnenburg, Rainer and Sorbello, Alfred and Ripple, Anna and Harpaz, Rave and Tanning, Joseph and Szarfman, Ana and Francis, Henry and Bodenreider, Olivier},
+   title = {Leveraging MEDLINE indexing for pharmacovigilance - inherent limitations and mitigation strategies.},
+   journal = {J Biomed Inform},
+   volume = {In review},
+
+}
+
+@article{
+   author = {Witten, D. M. and Tibshirani, R.},
+   title = {Survival analysis with high-dimensional covariates},
+   journal = {Stat Methods Med Res},
+   volume = {19},
+   number = {1},
+   pages = {29-51},
+   year = {2010}
+}
+
+
+@article{
+   author = {Wu, S. C. and Armstrong, D. G.},
+   title = {Clinical outcome of diabetic foot ulcers treated with negative pressure wound therapy and the transition from acute care to home care},
+   journal = {Int Wound J},
+   volume = {5 Suppl 2},
+   pages = {10-6},
+   year = {2008}
+}
+
+@article{
+   author = {Wu, S. T. and Liu, H. and Li, D. and Tao, C. and Musen, M. A. and Chute, C. G. and Shah, N. H.},
+   title = {Unified Medical Language System term occurrences in clinical notes: a large-scale corpus analysis},
+   journal = {J Am Med Inform Assoc},
+   volume = {19},
+   number = {e1},
+   pages = {e149-e156},
+   year = {2012}
+}
+
+@article{
+   author = {Xu, H. and Fu, Z. and Shah, A. and Chen, Y. and Peterson, N. B. and Chen, Q. and Mani, S. and Levy, M. A. and Dai, Q. and Denny, J. C.},
+   title = {Extracting and integrating data from entire electronic health records for detecting colorectal cancer cases},
+   journal = {AMIA Annu Symp Proc},
+   volume = {2011},
+   pages = {1564-72},
+   year = {2011}
+}
+
+@article{
+   author = {Xu, H. and Jiang, M. and Oetjens, M. and Bowton, E. A. and Ramirez, A. H. and Jeff, J. M. and Basford, M. A. and Pulley, J. M. and Cowan, J. D. and Wang, X. and Ritchie, M. D. and Masys, D. R. and Roden, D. M. and Crawford, D. C. and Denny, J. C.},
+   title = {Facilitating pharmacogenetic studies using electronic health records and natural-language processing: a case study of warfarin},
+   journal = {J Am Med Inform Assoc},
+   volume = {18},
+   number = {4},
+   pages = {387-91},
+   year = {2011}
+}
+
+@article{
+   author = {Yu, C. M. and Wang, L. and Chau, E. and Chan, R. H. and Kong, S. L. and Tang, M. O. and Christensen, J. and Stadler, R. W. and Lau, C. P.},
+   title = {Intrathoracic impedance monitoring in patients with heart failure: correlation with fluid status and feasibility of early warning preceding hospitalization},
+   journal = {Circulation},
+   volume = {112},
+   number = {6},
+   pages = {841-8},
+   year = {2005}
+}
+
+
+@article{
+   author = {Zeng, Q. T. and Goryachev, S. and Weiss, S. and Sordo, M. and Murphy, S. N. and Lazarus, R.},
+   title = {Extracting principal diagnosis, co-morbidity and smoking status for asthma research: evaluation of a natural language processing system},
+   journal = {BMC Med Inform Decis Mak},
+   volume = {6},
+   pages = {30},
+   year = {2006}
+}
+
+@article{
+   author = {Zheng, J. and Chapman, W. W. and Miller, T. A. and Lin, C. and Crowley, R. S. and Savova, G. K.},
+   title = {A system for coreference resolution for the clinical narrative},
+   journal = {J Am Med Inform Assoc},
+   volume = {19},
+   number = {4},
+   pages = {660-7},
+   year = {2012}
+}
+
+@article{
+   author = {Zhichkin, P. E. and Athey, B. D. and Avigan, M. I. and Abernethy, D. R.},
+   title = {Needs for an expanded ontology-based classification of adverse drug reactions and related mechanisms},
+   journal = {Clin Pharmacol Ther},
+   volume = {91},
+   number = {6},
+   pages = {963-5},
+   year = {2012}
+}
+
+@article{
+   author = {Zhu, X. and Cherry, C. and Kiritchenko, S. and Martin, J. and de Bruijn, B.},
+   title = {Detecting concept relations in clinical text: insights from a state-of-the-art model},
+   journal = {J Biomed Inform},
+   volume = {46},
+   number = {2},
+   pages = {275-85},
+   year = {2013}
+}
+
+@article{
+   author = {Zou, Hui},
+   title = {The Adaptive Lasso and Its Oracle Properties},
+   journal = {Journal of the American Statistical Association},
+   volume = {101},
+   number = {476},
+   pages = {1418-1429},
+   year = {2006}
+}
+

@@ -1,0 +1,96 @@
+%\documentclass[12pt,twoside]{report}
+\documentclass[12pt]{report}
+
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{url}
+
+%% last modification is May 26, 2014, Emma Pease
+
+% note that the document can be single or double sided.  
+
+\usepackage[online]{suthesis-2e}
+%\usepackage{suthesis-2e}
+
+    \title{Actionable Information From Electronic Health Records}
+    \author{Kenneth Jung}
+    \dept{Biomedical Informatics}
+    \principaladviser{Nigam H. Shah}
+    \firstreader{Mark Musen}
+    \secondreader{Lester Mackey \\(Statistics)}
+%% one can also have a \thirdreader and \fourthreader
+
+%% note that certain departments and types of theses have other requirements
+%% For instance theses in the departments of 
+%% Asian Languages
+%% French and Italian
+%% Spanish and Portuguese
+%% need to define the \dept, \dualthesis, and the actual language
+%\dualthesis
+%\languagemajor{Chinese}
+%% 
+%% Those for Graduate Program in Humanities need to define 
+%\humanitiesthesis
+%\jointprogram{Arts and Crafts}
+%% 
+%% For submission to a committee or program (no department)
+% \committeethesis
+% \programthesis
+%%
+%% For School of Education or Business or Law
+% \educationthesis
+% \businessthesis
+% \lawthesis  (law actually isn't listed in the official documents, 2013/1014)
+
+\begin{document}
+
+% for a variety of reasons this is an all in one document; however,
+% when actually doing the thesis it is strongly recommended that each
+% chapter be in a separate file and use \include to include in the
+% main file.
+
+%% the \beforepreface command produces the title/Users/kjung/Dropbox/Nigam/NLP_Compare/Submit/JUNG_JAMIA_MANUSCRIPT_revised_clean.docx page
+%% in the online version it skips the copyright (page 2) and signature (page 3) pages 
+%% in the non-online version these would be included
+    \beforepreface
+
+%% Abstract can be any number of pages
+    \prefacesection{Abstract}
+Abstract abstract abstract
+
+%% one can also have a prefacesection that is a Preface instead of 
+%% Acknowledgements.   The thematic purpose is the same (thanks).  
+    \prefacesection{Acknowledgements} 
+Ack ack ack
+
+%% afterpreface produces a table of contents and any other tables
+%% wanted. At the end pagenumbering changes from roman to arabic and  
+%% is restarted 
+    \afterpreface 
+
+%% Normally the \chapter and any text would be in a separate file and included.
+%    \chapter{Introduction} 
+\include{ch1}
+
+\include{ch2}
+
+\include{ch3}
+
+\include{ch4}
+
+\include{ch5}
+
+%% Conclusions and Future Work
+%% \include{ch6}
+
+%% for Bibliography I would recommend a separate .bib file (bibtex) instead of inline as here.
+%\begin{thebibliography}
+\bibliographystyle{plain}
+\bibliography{proposal}
+%\end{thebibliography}
+
+\onlinesignature
+
+\end{document}

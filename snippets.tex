@@ -1,0 +1,26 @@
+\begin{figure}
+  \begin{center}
+    \includegraphics[width=0.9\linewidth]{ch4-figures/Figure1.pdf}
+  \end{center}
+  \caption{}
+  \label{fig:short}
+\end{figure}
+
+\begin{table}
+\begin{center}
+\begin{tabular}{|c|c|c|c|c||}
+  \hline Feature set & AUC & PPV & Specificity & Recall \\
+  \hline
+  \hline
+  Clinical Notes (CN) & 0.920 & 0.763 & 0.803 & 0.702\\
+  Known Adverse-Event (KA) & 0.723 & 0.526 & 0.624 & 0.550 \\
+  Known Usage (KU) & 0.815 & 0.561 & 0.661 & 0.584 \\
+  CN+KA & 0.932 & 0.775 & 0.714 & 0.801 \\
+  CN+KU & 0.937 & 0.781 & 0.719 & 0.820 \\
+  ALL & 0.944 & 0.796 & 0.913 & 0.839 \\
+  \hline
+\end{tabular}
+\end{center}
+\caption{Performance of Random Forest classifier on held-out test set
+  with different feature sets}
+\end{table}

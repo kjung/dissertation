@@ -1,0 +1,73 @@
+\contentsline {chapter}{Abstract}{iv}
+\contentsline {chapter}{Acknowledgements}{vi}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Motivation}{1}
+\contentsline {section}{\numberline {1.2}Outline}{3}
+\contentsline {subsection}{\numberline {1.2.1}Discovery of Off-label Drug Use from Clinical Text}{3}
+\contentsline {subsection}{\numberline {1.2.2}Discovery of Adverse Drug Events from Clinical Text}{4}
+\contentsline {subsection}{\numberline {1.2.3}Functional Evaluation of text-mining tools for clinical data mining tasks}{4}
+\contentsline {subsection}{\numberline {1.2.4}Predictive models of delayed wound healing}{5}
+\contentsline {subsection}{\numberline {1.2.5}Contributions}{5}
+\contentsline {chapter}{\numberline {2}Learning Off-label Drug Usages}{6}
+\contentsline {section}{\numberline {2.1}Introduction}{6}
+\contentsline {section}{\numberline {2.2}Materials and Methods}{9}
+\contentsline {subsection}{\numberline {2.2.1}Constructing a gold standard}{9}
+\contentsline {subsection}{\numberline {2.2.2}Annotation of clinical text from STRIDE}{9}
+\contentsline {subsection}{\numberline {2.2.3}Feature Construction}{10}
+\contentsline {subsection}{\numberline {2.2.4}Training a predictive model}{11}
+\contentsline {subsection}{\numberline {2.2.5}Identifying known usages}{13}
+\contentsline {subsection}{\numberline {2.2.6}Validation by FAERS, MEDLINE and mechanistic plausibility}{13}
+\contentsline {subsection}{\numberline {2.2.7}Removal of drug adverse events}{14}
+\contentsline {section}{\numberline {2.3}Results}{15}
+\contentsline {subsection}{\numberline {2.3.1}A classifier for detecting used-to-treat relationships}{16}
+\contentsline {subsection}{\numberline {2.3.2}Predicting novel off-label usages}{18}
+\contentsline {subsection}{\numberline {2.3.3}Support in FAERS, MEDLINE and SIDER 2}{18}
+\contentsline {subsection}{\numberline {2.3.4}Plausibility based on mechanisms of action}{20}
+\contentsline {subsection}{\numberline {2.3.5}Manual validation of the predicted usages}{22}
+\contentsline {subsection}{\numberline {2.3.6}Prioritizing predicted off-label usages for further investigation}{23}
+\contentsline {section}{\numberline {2.4}Discussion}{24}
+\contentsline {chapter}{\numberline {3}Learning Adverse Drug Events}{27}
+\contentsline {section}{\numberline {3.1}Introduction}{27}
+\contentsline {section}{\numberline {3.2}Materials and Methods}{30}
+\contentsline {subsection}{\numberline {3.2.1}Constructing training and test sets}{30}
+\contentsline {subsection}{\numberline {3.2.2}Processing of clinical text-notes from STRIDE}{31}
+\contentsline {subsection}{\numberline {3.2.3}Feature construction}{31}
+\contentsline {subsection}{\numberline {3.2.4}Classifier development}{32}
+\contentsline {subsection}{\numberline {3.2.5}Identifying putative drug-AE associations}{32}
+\contentsline {subsection}{\numberline {3.2.6}Filtering in FAERS and MEDLINE}{32}
+\contentsline {subsection}{\numberline {3.2.7}Validation in Medi-Span and Time-Indexed Reference}{33}
+\contentsline {subsection}{\numberline {3.2.8}Assessing the quality of the predictions}{34}
+\contentsline {subsection}{\numberline {3.2.9}Feature contribution}{34}
+\contentsline {section}{\numberline {3.3}Results}{34}
+\contentsline {section}{\numberline {3.4}Discussion}{35}
+\contentsline {section}{\numberline {3.5}Conclusion}{37}
+\contentsline {chapter}{\numberline {4}Functional evaluation of text-mining tools}{39}
+\contentsline {section}{\numberline {4.1}Introduction}{39}
+\contentsline {section}{\numberline {4.2}MATERIALS AND METHODS}{41}
+\contentsline {subsection}{\numberline {4.2.1}Overview of our approach}{41}
+\contentsline {subsection}{\numberline {4.2.2}Data Sources}{42}
+\contentsline {subsection}{\numberline {4.2.3}Processing clinical text}{42}
+\contentsline {subsection}{\numberline {4.2.4}Accuracy on the 2008 i2b2 dataset}{43}
+\contentsline {subsection}{\numberline {4.2.5}Safety Profiling of Cilostazol}{44}
+\contentsline {subsection}{\numberline {4.2.6}Adverse Drug-Drug Interactions}{44}
+\contentsline {subsection}{\numberline {4.2.7}Learning used-to-treat relationships from clinical text}{45}
+\contentsline {subsection}{\numberline {4.2.8}Learning used-to-treat relationships with limited data}{46}
+\contentsline {section}{\numberline {4.3}RESULTS}{46}
+\contentsline {subsection}{\numberline {4.3.1}Accuracy of annotations using the 2008 i2b2 Obesity Challenge}{46}
+\contentsline {subsection}{\numberline {4.3.2}Safety profiling of Cilostazol}{47}
+\contentsline {subsection}{\numberline {4.3.3}Learning adverse drug-drug interactions}{47}
+\contentsline {subsection}{\numberline {4.3.4}Learning used-to-treat relationships}{47}
+\contentsline {subsection}{\numberline {4.3.5}Learning used-to-treat relationships with limited data}{48}
+\contentsline {section}{\numberline {4.4}DISCUSSION}{48}
+\contentsline {chapter}{\numberline {5}Prediction of Delayed Wound Healing}{52}
+\contentsline {section}{\numberline {5.1}Introduction}{52}
+\contentsline {section}{\numberline {5.2}Materials and Methods}{55}
+\contentsline {subsection}{\numberline {5.2.1}Dataset}{55}
+\contentsline {subsection}{\numberline {5.2.2}Training and test splits}{56}
+\contentsline {subsection}{\numberline {5.2.3}Model choice}{57}
+\contentsline {subsection}{\numberline {5.2.4}Feature engineering}{57}
+\contentsline {subsection}{\numberline {5.2.5}Model evaluation}{58}
+\contentsline {section}{\numberline {5.3}Results}{58}
+\contentsline {subsection}{\numberline {5.3.1}Discrimination}{58}
+\contentsline {subsection}{\numberline {5.3.2}Calibration}{59}
+\contentsline {section}{\numberline {5.4}Discussion}{60}

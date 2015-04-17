@@ -1,0 +1,129 @@
+\chapter{Prediction of Delayed Wound Healing}
+
+\section{INTRODUCTION}
+
+Chronic wounds are those that fail to heal in a timely manner
+\cite{Lazarus1994}, and affect an estimated 6.5 million people in
+the United States (2\% of the population) \cite{Fife2012}.  Chronic
+wounds are at increased risk of complications, such as amputation and
+infection, which can have a severe negative impact on patient
+well-being.  The cost of treating these wounds is high – up to $50
+billion annually \cite{Driver2010,Hess2004,Kuhn1992} – and the
+incidence of chronic wounds is expected to increase due to an aging
+population and rising risk factors such as diabetes and obesity
+\cite{Sen2009}.
+
+
+
+
+\section{METHODS}
+
+\subsection{Dataset}
+
+Figure 1 provides an overview of the dataset, and Supplemental
+Materials S1 contains a full list of the variables collected, along
+with basic patient and wound statistics.  In brief, the dataset was
+compiled from data collected at 68 Healogics wound care centers in 26
+states from 2009 through 2013.  This includes data on 180,696 wounds
+from 59,953 patients, with wounds receiving standard care, and
+assessed weekly until healed or resolved, or treatment was
+discontinued.  Patient information includes demographic information
+along with ICD9 codes at each encounter, zip code, and insurance
+provider.  Wound information included quantitative wound
+characteristics such as length and width, along with categorical wound
+characteristics such as “rubor” and “erythema”.  There were 40 wound
+types (e.g., Pressure Ulcer, Venous Ulcer) and 37 anatomic locations.
+The mean duration of care was 52.2 days.  Overall, 11.6\% of wounds
+exhibited delayed wound healing, defined as 15 or more weeks to
+closure.
+
+\subsection{Model development}
+
+Model development is summarized in Figure 2.  We used data from the
+first and second wound assessments (weeks one and two) to construct
+predictors of delayed wound healing.  We chose delayed wound healing
+as the outcome because long term, non-healed wounds are a significant
+source of morbidity for patients, increase cost to the healthcare
+system and, in a capitated payment model, a significant risk for the
+care provider. These data were augmented with additional predictors
+that captured wound burden at the first assessment, such as number of
+patient wounds and total wound surface area, along with predictors
+that measure the change in quantitative metrics between the first and
+second assessments.  Finally, we linked patient zip codes to
+socio-economic variables from the American Community Survey.  After
+removal of data that containing outlier values, we were left with
+149,829 wounds and 53,198 patients.
+
+The dataset was randomly split into 2 parts – training (N = 119,869)
+and test (N = 29,960).  Quantitative predictors were standardized
+using mean and variance estimates from the training set; these
+parameters were also used to standardize the test data.  Categorical
+variables were encoded as binary values.  In all, 1042 predictors were
+used, 911 of which were binary (0 or 1) encodings of categorical
+variables.
+
+We fit several models on the training data and evaluated their
+performance on a held out subset of the training data.  We found that
+the best single model was a generalized boosted tree model (24, 25).
+This model was then trained on the full training dataset and evaluated
+on the test data.  The ability of the model to predict delayed wound
+healing was measured by area under the receiver-operator curve (AUC),
+with 95\% confidence intervals estimated by bootstrapping
+\cite{Margolis2002}.  Model calibration (i.e., the agreement of the
+predicted probabilities of delayed wound healing to observed
+frequencies) was measured using Brier reliability \cite{Brier1950}.
+Further details may be found in Supplemental Materials S2.
+
+\section{RESULTS}
+
+A prognostic model for delayed wound healing should discriminate
+between normal and delayed healing wounds, and provide accurate
+probabilities for those outcomes \cite{Cook2007,Cook2008}.  We
+evaluated discrimination by AUC, and calibration by Brier reliability
+(Figure 3).  The AUC summarizes the ability of the model to
+discriminate between normal and non-healing wounds over the range of
+tradeoffs between sensitivity and specificity.  An AUC of 0.5 means
+the model performs no better than random guessing, while an AUC of 1
+means the model discriminates perfectly.
+
+Our model achieved an AUC of 0.863 (95\% confidence interval
+0.857-0.869) over all wound types.  For the two wound types previously
+examined by Margolis et al. (14, 15) (venous leg ulcers and diabetic
+neuropathic ulcers), we achieve AUCs of 0.871 and 0.835 respectively,
+a significant improvement over the previously reported best results of
+0.71 and 0.70.  Performance in other wound types well represented in
+the test set (N > 500) ranged from 0.811 for lower extremity diabetic
+wounds to 0.934 for partial thickness burns.
+
+Brier reliability measures agreement between predicted probabilities
+and observed frequencies for stratified samples on a scale between 0
+and 1, with small values indicating good agreement and 0 indicating
+perfect agreement.  Test cases were stratified based on their
+predicted probability of delayed wound healing.  The model scored a
+Brier reliability of 0.00018 indicating that the predicted
+probabilities in each strata closely matched observed frequencies of
+delayed wound healing.
+
+\section{DISCUSSION}
+
+Our approach does have limitations. Although our model was developed
+on data from 68 geographically distributed wound care centers in 26
+states, it may not generalize to centers other than those that
+participated in this study.  Indeed, we observe considerable
+inter-center variability in practices and patient populations.
+Second, it is possible that the model may not generalize to cases
+outside wound care centers, limiting its utility for making referral
+decisions.  Third, in contrast with previous work, we have traded
+simplicity for accuracy.  The simple models by Margolis et al. can be
+applied by basic arithmetic.  In exchange, however, we have achieved
+significantly higher accuracy.  We would argue that in the age of
+widespread and growing adoption of EHRs, it is time to shift some of
+the burden of such prognostication to automated systems.
+
+These limitations notwithstanding, our model, to the best of our
+knowledge, is the first that has been developed and validated on the
+full diversity of patients and wound types seen in clinical practice.
+It achieves significantly better discrimination than those of previous
+efforts, and is a case study for the meaningful secondary use of
+routinely collected EHR data to improve treatment strategies.
+
